@@ -2059,6 +2059,48 @@
           "url": "https://commons.wikimedia.org/wiki/File:Kaban_lake_quay_(2021-07-26)_02.jpg"
         }
       ]
+    },
+    {
+      "id": "kazan_ratusha",
+      "name": "Казанская ратуша",
+      "category": "Архитектура",
+      "address": "ул. Карла Маркса, 33",
+      "lat": 55.796429,
+      "lon": 49.126243,
+      "qid": "Q56257617",
+      "source": "https://go.kzn.ru/places/kazanskaia-ratusa",
+      "facts_source": "https://go.kzn.ru/places/kazanskaia-ratusa",
+      "intro": "Бывшее Дворянское собрание на площади Свободы. Ратушу легко узнать по аркаде главного входа и часам над фасадом.",
+      "history": "Здание возвели в середине XIX века по проекту Михаила Коринфского. На тогдашней Театральной площади у казанского дворянства появился просторный зал для балов и концертов. Здесь выступали Фёдор Шаляпин и Сергей Рахманинов. В советские годы в здании работал Дом офицеров.\n\nРатушу открыли после реставрации в 2005 году, к тысячелетию Казани. С площади можно рассмотреть арки входа и ряды высоких окон. Если хочется увидеть залы, заранее уточни возможность посещения у ратуши.",
+      "facts": [
+        "В 1914 году здесь выступал Владимир Маяковский.",
+        "Исторический бальный зал мог вмещать до 1 200 человек.",
+        "При реставрации к зданию надстроили четвёртый этаж."
+      ],
+      "photo": "remote/kazan/ratusha-1-501746801aae235b.jpg",
+      "photo_title": "Здание дворянского собрания (Казанская ратуша).jpg",
+      "photo_author": "Butsenin",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B2%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D1%82%D1%83%D1%88%D0%B0).jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/kazan/ratusha-2-9c7ca7a8d46c255f.jpg",
+          "title": "Kazan Ratusha 2024-07-18 2576.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Ratusha_2024-07-18_2576.jpg",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        {
+          "path": "remote/kazan/ratusha-3-d35227ceaecdf829.jpg",
+          "title": "Вид на памятник Державину и здание Благородного собрания. Казань.1894.jpg",
+          "author": "Максим Петрович Дмитриев",
+          "license": "Public domain",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%D1%83_%D0%B8_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.1894.jpg",
+          "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing#Public_domain"
+        }
+      ]
     }
   ],
   "translations": {
@@ -2599,6 +2641,17 @@
         "An international architecture competition for the lakefront's development was held in 2015.",
         "The winning concept was called Elastic Ribbon.",
         "A waterside esplanade with an amphitheatre stands beside the former Kamal Theatre building."
+      ]
+    },
+    "kazan_ratusha": {
+      "name": "Kazan Town Hall",
+      "address": "33 Karl Marx Street",
+      "intro": "The former Nobles’ Assembly on Freedom Square is easy to recognise by its entrance arcade and the clock above the façade.",
+      "history": "The building went up in the mid-19th century to a design by Mikhail Korinfsky. Its spacious ballroom on what was then Theatre Square hosted dances and concerts for Kazan’s nobility. Fyodor Chaliapin and Sergei Rachmaninoff performed here. In Soviet times the building housed the House of Officers.\n\nThe restored town hall reopened for Kazan’s millennium in 2005. From the square you can see the entrance arches and rows of tall windows. Check ahead with the town hall if you would like to visit the interior.",
+      "facts": [
+        "Vladimir Mayakovsky performed here in 1914.",
+        "The historic ballroom could hold up to 1,200 people.",
+        "A fourth storey was added during the restoration."
       ]
     }
   }

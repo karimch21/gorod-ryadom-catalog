@@ -12,6 +12,12 @@
       "name_ru": "Тест: Санкт-Петербург",
       "name_en": "Test: St Petersburg",
       "catalog": "cities/demo_petersburg.json"
+    },
+    {
+      "id": "demo_kazan",
+      "name_ru": "Тест: Казань",
+      "name_en": "Test: Kazan",
+      "catalog": "cities/demo_kazan.json"
     }
   ]
 }
