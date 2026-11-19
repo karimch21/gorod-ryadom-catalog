@@ -1,0 +1,2605 @@
+{
+  "schema_version": 1,
+  "city_id": "kazan",
+  "places": [
+    {
+      "id": "kremlin",
+      "name": "Казанский кремль",
+      "category": "История",
+      "address": "Территория Казанского кремля",
+      "lat": 55.797442,
+      "lon": 49.10724,
+      "qid": "Q603622",
+      "intro": "Крепость, музеи и памятники разных эпох в самом сердце Казани.",
+      "history": "Казанский кремль — историческая крепость на высоком берегу Казанки. Его территория хранит следы разных периодов истории города, а в современном ансамбле соседствуют памятники татарской и русской культуры. В 2000 году комплекс включили в список Всемирного наследия ЮНЕСКО.\n\nНа территории можно увидеть мечеть Кул-Шариф, Благовещенский собор и башню Сююмбике, а также посетить музеи. С обзорных площадок открывается вид на Казанку и противоположный берег; удобный проход к кремлю находится у Спасской башни.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/kremlin-f2cc53bc79870b76.jpg",
+      "photo_title": "Казанский кремль. Панорама с колеса обозрения.jpg",
+      "photo_author": "Fendes",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C._%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%81_%D0%BA%D0%BE%D0%BB%D0%B5%D1%81%D0%B0_%D0%BE%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D1%8F.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Контур кремля повторяет очертания холма, поэтому его стены образуют неправильный многоугольник.",
+        "Археологи обнаружили здесь следы нескольких городищ разных эпох; самые ранние укрепления были деревянными.",
+        "Сегодня на территории кремля находится официальная резиденция главы Татарстана."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/kremlin-2-45c20352e0aa4814.jpg",
+          "title": "Kazan Kremlin from drone.jpg",
+          "author": "Nikitin bokeh",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Kremlin_from_drone.jpg"
+        },
+        {
+          "path": "remote/kazan/kremlin-3-6dea9242eb512ef3.jpg",
+          "title": "16 Казанский кремль на закате Казань.jpg",
+          "author": "Алексей Задонский",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:16_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kulsharif",
+      "name": "Мечеть Кул-Шариф",
+      "category": "Архитектура",
+      "address": "Казанский кремль",
+      "lat": 55.7983,
+      "lon": 49.1052,
+      "qid": "Q121198",
+      "intro": "Мечеть с узнаваемыми голубыми куполами на территории кремля.",
+      "history": "Современную мечеть Кул-Шариф построили в 1996–2005 годах на территории Казанского кремля. Она названа в честь имама Кул Шарифа, имя которого связано с историей Казанского ханства и событиями 1552 года.\n\nГолубые купола и высокие минареты заметны из разных частей кремля. В нижней части здания находится Музей исламской культуры; перед входом в действующую мечеть стоит уточнить правила посещения и требования к одежде.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/kulsharif-ce00f7aafddaff3c.jpg",
+      "photo_title": "Kazan Kul Sharif Mosque 2024-07-13 1322.jpg",
+      "photo_author": "Mike1979 Russia",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Kul_Sharif_Mosque_2024-07-13_1322.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Проект современной мечети выбрали на республиканском архитектурном конкурсе.",
+        "Здание находится в западной части кремля и образует ансамбль с собственной площадью.",
+        "Внутреннее пространство рассчитано примерно на полторы тысячи человек."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB-%D0%A8%D0%B0%D1%80%D0%B8%D1%84",
+      "gallery": [
+        {
+          "path": "remote/kazan/kulsharif-2-94c9e3ec5066f5f8.jpg",
+          "title": "Kazan Kul Sharif Mosque 2024-07-13 1341.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Kul_Sharif_Mosque_2024-07-13_1341.jpg"
+        },
+        {
+          "path": "remote/kazan/kulsharif-3-c2ae023f6460e9c7.jpg",
+          "title": "Kazan Kul Sharif Mosque 2024-07-13 1350.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Kul_Sharif_Mosque_2024-07-13_1350.jpg"
+        }
+      ]
+    },
+    {
+      "id": "suyumbike",
+      "name": "Башня Сююмбике",
+      "category": "История",
+      "address": "Казанский кремль",
+      "lat": 55.800525,
+      "lon": 49.105194,
+      "qid": "Q2166466",
+      "intro": "Наклонная многоярусная башня — один из символов Казани.",
+      "history": "Многоярусная башня Сююмбике стоит в северной части Казанского кремля. Она заметно отклоняется от вертикали, поэтому её часто называют одной из «падающих» башен.\n\nНазвание связывают с правительницей Сююмбике, а о самой башне сложено несколько легенд. Учёные продолжают обсуждать время её строительства и первоначальное назначение, поэтому предания лучше воспринимать именно как часть городской культуры.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/suyumbike-7a62be3a798dac98.jpg",
+      "photo_title": "Söyembikä Tower in Kazan 2011.jpg",
+      "photo_author": "Bestalex",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:S%C3%B6yembik%C3%A4_Tower_in_Kazan_2011.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "У башни семь ярусов: три нижних четырёхугольные, а четыре верхних — восьмигранные.",
+        "Под кирпичными стенами находится фундамент на дубовых сваях.",
+        "В нижнем ярусе устроен сквозной проезд во двор."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%88%D0%BD%D1%8F_%D0%A1%D1%8E%D1%8E%D0%BC%D0%B1%D0%B8%D0%BA%D0%B5",
+      "gallery": [
+        {
+          "path": "remote/kazan/suyumbike-2-c9081bfffe8a1627.jpg",
+          "title": "Kazan Kremlin Syuyumbike Tower 2024-07-13 1410.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Kremlin_Syuyumbike_Tower_2024-07-13_1410.jpg"
+        },
+        {
+          "path": "remote/kazan/suyumbike-3-5251dbd76bdd20a9.jpg",
+          "title": "Soyembika Tower.jpg",
+          "author": "Michael Volkov",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Soyembika_Tower.jpg"
+        }
+      ]
+    },
+    {
+      "id": "annunciation",
+      "name": "Благовещенский собор",
+      "category": "Архитектура",
+      "address": "Казанский кремль",
+      "lat": 55.799792,
+      "lon": 49.105803,
+      "qid": "Q185568",
+      "intro": "Древний собор и важная часть ансамбля Казанского кремля.",
+      "history": "Благовещенский собор — один из древнейших сохранившихся памятников Казани. Каменное здание появилось в XVI веке, а за последующие столетия собор пережил пожары, перестройки и восстановление.\n\nСобор стоит на территории кремля недалеко от башни Сююмбике. Рядом можно рассмотреть детали храмовой архитектуры и выйти к площадке с видом на Казанку; режим посещения лучше уточнять заранее.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/annunciation-f94c0fe6b0501863.jpg",
+      "photo_title": "Kazan. Annunciation Cathedral P8111938 2200.jpg",
+      "photo_author": "Alexxx1979",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan._Annunciation_Cathedral_P8111938_2200.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "До каменного собора на этом месте стояла деревянная церковь.",
+        "Для строительства каменного храма в XVI веке прибыли псковские мастера.",
+        "В орнаменте у основания центральной главы сохранились черты псковской архитектурной школы."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F",
+      "gallery": [
+        {
+          "path": "remote/kazan/annunciation-2-53df41ee2dafc7ed.jpg",
+          "title": "Annunciation Cathedral (Kazan) in November 2014.jpg",
+          "author": "Nelly Right",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Annunciation_Cathedral_(Kazan)_in_November_2014.jpg"
+        },
+        {
+          "path": "remote/kazan/annunciation-3-824a4836e6adb20d.jpg",
+          "title": "Annunciation cathedral kazan.jpg",
+          "author": "ZooL SmoK",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Annunciation_cathedral_kazan.jpg"
+        }
+      ]
+    },
+    {
+      "id": "palace",
+      "name": "Дворец земледельцев",
+      "category": "Архитектура",
+      "address": "Дворцовая площадь",
+      "lat": 55.800556,
+      "lon": 49.112222,
+      "qid": "Q4155923",
+      "intro": "Здание с декоративным деревом на фасаде у подножия кремля.",
+      "history": "Дворец земледельцев появился у подножия кремлёвского холма в 2010 году. В его центральной арке установлена большая металлическая композиция в виде дерева — самая узнаваемая деталь фасада.\n\nЗдание выходит на Дворцовую площадь, а рядом начинается прогулочная зона у Казанки. Его удобно рассматривать с площади или включить в маршрут между кремлём и набережной.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/palace-43cbda3ef55019e4.jpg",
+      "photo_title": "Дворец Земледельцев (Казань).JPG",
+      "photo_author": "Денис Петьовка",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%97%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B2_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C).JPG",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "За парадным фасадом размещается Министерство сельского хозяйства и продовольствия Татарстана.",
+        "Дерево в центральной арке достигает примерно 20 метров в высоту.",
+        "Название дворца написано на фасаде на русском и татарском языках."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B2",
+      "gallery": [
+        {
+          "path": "remote/kazan/palace-2-f63fe0dcce5bd173.jpg",
+          "title": "Fertility Tree - panoramio.jpg",
+          "author": "Keith Ruffles",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Fertility_Tree_-_panoramio.jpg"
+        },
+        {
+          "path": "remote/kazan/palace-3-5e98beea00092353.jpg",
+          "title": "Agriculturers palace (2021-05-20) 03.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Agriculturers_palace_(2021-05-20)_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "embankment",
+      "name": "Кремлёвская набережная",
+      "category": "Прогулки",
+      "address": "Набережная реки Казанки",
+      "lat": 55.803828,
+      "lon": 49.116763,
+      "qid": "Q30890544",
+      "intro": "Прогулочное пространство у воды с видами на Казанку.",
+      "history": "Кремлёвская набережная проходит вдоль Казанки у исторического центра. Прогулочная зона связывает территорию под кремлёвским холмом с более поздней городской застройкой вдоль реки.\n\nЗдесь можно пройти вдоль воды и посмотреть на кремль с другого ракурса. Инфраструктура и развлечения зависят от сезона, поэтому маршрут удобен прежде всего как прогулка по берегу.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/embankment-f517cc5ce2e20b17.jpg",
+      "photo_title": "Кремлёвская набережная с холма.jpg",
+      "photo_author": "Дмитрий Сагдеев (Кояш)",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D1%81_%D1%85%D0%BE%D0%BB%D0%BC%D0%B0.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Прогулочная набережная тянется примерно на полтора километра — от стен кремля до Национальной библиотеки.",
+        "Здесь предусмотрены дорожки для прогулок и полоса для велосипедистов и роллеров.",
+        "Зимой часть пространства превращается в сезонную площадку для катания на коньках."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/embankment-2-4d67073d71495c61.jpg",
+          "title": "Kremlin quay, Kazan (2021-07-31) 01.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kremlin_quay,_Kazan_(2021-07-31)_01.jpg"
+        },
+        {
+          "path": "remote/kazan/embankment-3-8c263cf60d788d8d.jpg",
+          "title": "Kremlin quay, Kazan (2021-06-14) 02.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kremlin_quay,_Kazan_(2021-06-14)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "jalilmonument",
+      "name": "Памятник Мусе Джалилю",
+      "category": "История",
+      "address": "Площадь 1 Мая",
+      "lat": 55.796111,
+      "lon": 49.108333,
+      "qid": "Q13205949",
+      "intro": "Памятник поэту у стен Казанского кремля.",
+      "history": "Памятник татарскому поэту Мусе Джалилю установлен в 1966 году на площади 1 Мая у Казанского кремля. Джалиль был участником антифашистского подполья и погиб в нацистской тюрьме в 1944 году.\n\nМонумент находится рядом со Спасской башней и Национальным музеем. Это место позволяет соединить прогулку по крепости с историей людей, чьи имена важны для культуры Татарстана.",
+      "source": "https://go.kzn.ru/places/ploshhad-1-maia-pamiatnik-muse-dzaliliu",
+      "photo": "remote/kazan/jalilmonument-75a5174f3dc69e28.jpg",
+      "photo_title": "Musa Dzhalil monument, Kazan (2021-05-15) 01.jpg",
+      "photo_author": "Vyacheslav Kirillin",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Musa_Dzhalil_monument,_Kazan_(2021-05-15)_01.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Монумент состоит не только из фигуры поэта: в композицию входят гранитная площадка и мемориальная стена.",
+        "Авторы комплекса — скульптор Владимир Цигаль и архитектор Леонид Голубовский.",
+        "В образе поэта использован мотив разрываемой колючей проволоки."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9C%D1%83%D1%81%D0%B5_%D0%94%D0%B6%D0%B0%D0%BB%D0%B8%D0%BB%D1%8E_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/jalilmonument-2-b778ee610d8c1383.jpg",
+          "title": "Musa Dzhalil monument, Kazan (2022-11-08) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Musa_Dzhalil_monument,_Kazan_(2022-11-08)_01.jpg"
+        },
+        {
+          "path": "remote/kazan/jalilmonument-3-7705e26e971f0012.jpg",
+          "title": "Musa Dzhalil monument, Kazan (2022-11-08) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Musa_Dzhalil_monument,_Kazan_(2022-11-08)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "nationalmuseum",
+      "name": "Национальный музей Татарстана",
+      "category": "Культура",
+      "address": "Кремлёвская улица, 2",
+      "lat": 55.795565,
+      "lon": 49.110159,
+      "qid": "Q4315032",
+      "intro": "Главный музей республики рядом с кремлём.",
+      "history": "История Национального музея Татарстана восходит к Казанскому городскому научно-промышленному музею, учреждённому в конце XIX века. Сейчас его собрания рассказывают о природе, археологии и культуре региона.\n\nГлавное здание находится на Кремлёвской улице, недалеко от Спасской башни. Часть коллекций можно увидеть в постоянных экспозициях и на выставках; актуальный режим работы публикует музей.",
+      "source": "https://tatmuseum.ru/about/",
+      "photo": "remote/kazan/nationalmuseum-8076ede4f18ed315.jpg",
+      "photo_title": "Национальный музей Республики Татарстан.JPG",
+      "photo_author": "Денис Петьовка",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD.JPG",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Музей занимает историческое здание бывшего Гостиного двора напротив кремля.",
+        "Одной из основ музейного собрания стала коллекция казанского собирателя Андрея Лихачёва.",
+        "К идее публичного музея казанцев подтолкнули в том числе экспонаты большой выставки 1890 года."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD",
+      "gallery": [
+        {
+          "path": "remote/kazan/nationalmuseum-2-a4fbfcf4d04b4368.jpg",
+          "title": "Entrance to the building of the National Museum of Tatarstan.jpg",
+          "author": "Юкатан",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_building_of_the_National_Museum_of_Tatarstan.jpg"
+        },
+        {
+          "path": "remote/kazan/nationalmuseum-3-48ddf32e5121d39d.jpg",
+          "title": "Trading Arcades, Kazan (2022-05-18) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Trading_Arcades,_Kazan_(2022-05-18)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "peterpaul",
+      "name": "Петропавловский собор",
+      "category": "Архитектура",
+      "address": "Улица Мусы Джалиля, 21",
+      "lat": 55.793611,
+      "lon": 49.113206,
+      "qid": "Q2655072",
+      "intro": "Яркий собор с богатым декоративным убранством.",
+      "history": "Каменный Петропавловский собор построили в 1722–1726 годах на средства купца Ивана Михляева. Здание относится к числу наиболее заметных памятников русского барокко в Казани.\n\nОбратите внимание на яркие детали фасада и высокий силуэт собора. Он расположен недалеко от улиц Баумана и Кремлёвской, поэтому его удобно посетить во время прогулки по старому центру.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/peterpaul-490d17e499ebfe80.jpg",
+      "photo_title": "Петрапаўлаўскі сабор у Казані.jpg",
+      "photo_author": "Murdic",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%82%D1%80%D0%B0%D0%BF%D0%B0%D1%9E%D0%BB%D0%B0%D1%9E%D1%81%D0%BA%D1%96_%D1%81%D0%B0%D0%B1%D0%BE%D1%80_%D1%83_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%96.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Строительство каменного собора связано с посещением Казани Петром I в 1722 году.",
+        "Раньше улица рядом с храмом называлась Петропавловской; сейчас она носит имя Мусы Джалиля.",
+        "В хоре собора в молодости пел Фёдор Шаляпин."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/peterpaul-2-896cdd3c0c47a16e.jpg",
+          "title": "Ensemble of Peter and Paul Cathedral, Kazan (2023-03-29) 03.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Ensemble_of_Peter_and_Paul_Cathedral,_Kazan_(2023-03-29)_03.jpg"
+        },
+        {
+          "path": "remote/kazan/peterpaul-3-38cf560f5784c0ed.jpg",
+          "title": "Ensemble of Peter and Paul Cathedral, Kazan (2023-03-29) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Ensemble_of_Peter_and_Paul_Cathedral,_Kazan_(2023-03-29)_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "blacklake",
+      "name": "Парк «Чёрное озеро»",
+      "category": "Прогулки",
+      "address": "Между улицами Чернышевского и Дзержинского",
+      "lat": 55.7948,
+      "lon": 49.1185,
+      "qid": "Q4518730",
+      "intro": "Небольшой городской парк в историческом центре.",
+      "history": "Парк «Чёрное озеро» — историческое место отдыха в центре Казани. Название напоминает о водоёме, который когда-то здесь находился; с XIX века территория служила городским садом.\n\nВ парке есть прогулочные дорожки и известная арка с необычной акустикой: люди у разных её концов могут услышать друг друга. Это удобная остановка между кремлём, университетом и площадью Свободы.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/blacklake-77f457a97792981f.jpg",
+      "photo_title": "Black Lake, Kazan.JPG",
+      "photo_author": "Alaexis",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Black_Lake,_Kazan.JPG",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Название осталось от старого озера, которое к концу XIX века засыпали.",
+        "В конце XIX века в саду играла музыка, а зимой устраивали каток.",
+        "Главный вход в восточную часть парка проходит через знаменитую Арку влюблённых."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE_(%D0%BF%D0%B0%D1%80%D0%BA%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/blacklake-2-be1e56dd05131a90.jpg",
+          "title": "Chyornoye Lake, park (2024-06-08) 03.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Chyornoye_Lake,_park_(2024-06-08)_03.jpg"
+        },
+        {
+          "path": "remote/kazan/blacklake-3-7a5c5152d77627e1.jpg",
+          "title": "Chyornoye Lake, Kazan (2021-07-06) 14.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Chyornoye_Lake,_Kazan_(2021-07-06)_14.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ushkova",
+      "name": "Дом Ушковой",
+      "category": "Архитектура",
+      "address": "Кремлёвская улица, 33",
+      "lat": 55.791703,
+      "lon": 49.120908,
+      "qid": "Q4165421",
+      "intro": "Особняк с выразительным фасадом на Кремлёвской улице.",
+      "history": "Особняк на Кремлёвской улице известен как дом Ушковой. Его архитектура и исторические интерьеры привлекают внимание сочетанием разных декоративных направлений начала XX века.\n\nДолгое время в здании располагалась Национальная библиотека Татарстана. Сейчас доступ внутрь может быть ограничен, поэтому перед посещением стоит проверить информацию о состоянии здания и экскурсиях.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/ushkova-68d8433f2f2a8944.jpg",
+      "photo_title": "Kazan new ac build and lib.JPG",
+      "photo_author": "Bushy moustache",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_new_ac_build_and_lib.JPG",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "На углу особняка можно заметить круглый эркер под небольшим куполом.",
+        "В лепном убранстве фасада встречаются изображения орлов и драконов.",
+        "Нижний этаж первоначально предназначался для торговли, а парадные жилые комнаты находились наверху."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%A3%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9",
+      "gallery": [
+        {
+          "path": "remote/kazan/ushkova-2-0c3ef73a00ac6473.jpg",
+          "title": "Ushkova house (Kazan) 02.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Ushkova_house_(Kazan)_02.jpg"
+        },
+        {
+          "path": "remote/kazan/ushkova-3-27592628550a6e20.jpg",
+          "title": "Ushkova house (Kazan) 03.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Ushkova_house_(Kazan)_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "university",
+      "name": "Казанский университет",
+      "category": "Культура",
+      "address": "Кремлёвская улица, 18",
+      "lat": 55.79075,
+      "lon": 49.121911,
+      "qid": "Q113788",
+      "intro": "Исторический университетский ансамбль в центре города.",
+      "history": "Казанский университет основан в 1804 году и относится к старейшим университетам России. Исторический ансамбль на Кремлёвской улице связан с развитием науки и образования в Поволжье.\n\nГлавное здание с колоннами формирует облик университетского квартала. При планировании визита в музеи или внутренние помещения заранее уточните, открыты ли они для посетителей.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/university-3f1bfc5b7f37e617.jpg",
+      "photo_title": "Kazan University main building (2021-03-05) 05.jpg",
+      "photo_author": "Engelberthumperdink",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_University_main_building_(2021-03-05)_05.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Математик Николай Лобачевский работал здесь над неевклидовой геометрией и почти двадцать лет возглавлял университет.",
+        "Казанский химик Карл Клаус открыл в 1844 году элемент рутений и назвал его в честь России.",
+        "Среди бывших студентов университета — писатель Лев Толстой."
+      ],
+      "facts_source": "https://kpfu.ru/about_university/istoriya-universiteta",
+      "gallery": [
+        {
+          "path": "remote/kazan/university-2-b169acdffa2ea77b.jpg",
+          "title": "Kazan state university.jpg",
+          "author": "TY-214",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_state_university.jpg"
+        },
+        {
+          "path": "remote/kazan/university-3-2877db2345e613f7.jpg",
+          "title": "KGU main building.jpg",
+          "author": "Bushy moustache ( talk )",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:KGU_main_building.jpg"
+        }
+      ]
+    },
+    {
+      "id": "baumana",
+      "name": "Улица Баумана",
+      "category": "Прогулки",
+      "address": "Пешеходная улица Баумана",
+      "lat": 55.787222,
+      "lon": 49.121667,
+      "qid": "Q1593247",
+      "intro": "Пешеходная улица с историческими домами и городскими скульптурами.",
+      "history": "Улица Баумана — одна из главных пешеходных улиц Казани. Она проходит через исторический центр и связывает район кремля с площадью Тукая.\n\nНа прогулке можно увидеть старые здания, городские скульптуры, фонтаны и колокольню Богоявленского собора. Улица длинная, поэтому точка в приложении служит ориентиром, а не единственным входом.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/baumana-35ccc7eea6f96ddf.jpg",
+      "photo_title": "Bauman Street and underground gallery structures in Kazan, 19 September 2020.jpg",
+      "photo_author": "FingerWiki",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Bauman_Street_and_underground_gallery_structures_in_Kazan,_19_September_2020.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "В разные эпохи улица называлась Ногайской дорогой и Большой Проломной.",
+        "Имя революционера Николая Баумана улица получила в 1930 году.",
+        "Раньше по улице ходили троллейбусы; в 1990-х она стала пешеходной."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/baumana-2-9db55e633a8bbb88.jpg",
+          "title": "Baumana Street Kazan Russia 2009 sept 06.jpg",
+          "author": "Cyrios",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Baumana_Street_Kazan_Russia_2009_sept_06.jpg"
+        },
+        {
+          "path": "remote/kazan/baumana-3-a720c2faf704d47f.jpg",
+          "title": "Kazan Bauman street 2024-07-14 1620.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Bauman_street_2024-07-14_1620.jpg"
+        }
+      ]
+    },
+    {
+      "id": "epiphany",
+      "name": "Богоявленский собор",
+      "category": "Архитектура",
+      "address": "Улица Баумана, 78",
+      "lat": 55.788192,
+      "lon": 49.118922,
+      "qid": "Q4089831",
+      "intro": "Собор и высокая колокольня на улице Баумана.",
+      "history": "Богоявленский собор и стоящая рядом колокольня образуют заметный ансамбль на улице Баумана. Высокая кирпичная колокольня особенно выделяется среди окружающей застройки.\n\nКомплекс связан с историей старой Казани и именем певца Фёдора Шаляпина. Во время прогулки можно рассмотреть архитектуру с улицы, а возможность входа и подъёма уточнить отдельно.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/epiphany-ec430121ee8634cf.jpg",
+      "photo_title": "Богоявленский-Каз.JPG",
+      "photo_author": "Messir",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%B0%D0%B7.JPG",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Первая деревянная церковь на этом месте существовала уже в XVII веке.",
+        "От названия храма получила имя Богоявленская слобода, выросшая рядом.",
+        "Каменный храм и его знаменитая кирпичная колокольня создавались в разные периоды."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/epiphany-2-aafecabe169f53b2.jpg",
+          "title": "Church Epiphany, Kazan (2023-04-12) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Church_Epiphany,_Kazan_(2023-04-12)_01.jpg"
+        },
+        {
+          "path": "remote/kazan/epiphany-3-1c7926ca924d8d8a.jpg",
+          "title": "Church Epiphany, Kazan (2020-03-03) 04.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Church_Epiphany,_Kazan_(2020-03-03)_04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "freedom",
+      "name": "Площадь Свободы",
+      "category": "Прогулки",
+      "address": "Площадь Свободы",
+      "lat": 55.796944,
+      "lon": 49.125,
+      "qid": "Q4365764",
+      "intro": "Городская площадь рядом с театрами и общественными зданиями.",
+      "history": "Площадь Свободы — одна из центральных площадей Казани. Её окружают общественные и культурные здания, в том числе театр оперы и балета имени Мусы Джалиля.\n\nПлощадь удобно включить в прогулку между парком «Чёрное озеро», театром и старинными улицами центра. Здесь хорошо видно, как историческая застройка сочетается с более поздним городским ансамблем.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/freedom-0d03ba477c9ec152.jpg",
+      "photo_title": "Freedom Square, Kazan (2021-08-03) 01.jpg",
+      "photo_author": "Engelberthumperdink",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Freedom_Square,_Kazan_(2021-08-03)_01.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Раньше площадь называлась Театральной, а нынешнее имя получила в 1924 году.",
+        "Когда-то на месте нынешней площади стояло здание городского театра.",
+        "На месте нынешнего оперного театра прежде находился Державинский сад."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/freedom-2-6214ee672be597ce.jpg",
+          "title": "Freedom Square, Kazan (2021-07-31) 02.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Freedom_Square,_Kazan_(2021-07-31)_02.jpg"
+        },
+        {
+          "path": "remote/kazan/freedom-3-44f68211c45cf822.jpg",
+          "title": "Freedom Square, Kazan (2021-07-31) 03.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Freedom_Square,_Kazan_(2021-07-31)_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "opera",
+      "name": "Театр оперы и балета",
+      "category": "Культура",
+      "address": "Площадь Свободы, 2",
+      "lat": 55.79556,
+      "lon": 49.12472,
+      "qid": "Q2047744",
+      "intro": "Татарский театр оперы и балета имени Мусы Джалиля.",
+      "history": "Татарский театр оперы и балета носит имя поэта Мусы Джалиля и находится у площади Свободы. Это одна из главных музыкальных сцен Казани.\n\nДаже без билета здание можно рассмотреть во время прогулки по площади. Если захотите попасть на спектакль, заранее проверьте афишу и условия посещения на сайте театра.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/opera-b6d34589853763d2.jpg",
+      "photo_title": "Театр оперы и балета. Казань.JPG",
+      "photo_author": "Денис Петьовка",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%BE%D0%BF%D0%B5%D1%80%D1%8B_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.JPG",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Казанские постоянные оперные сезоны ведут историю с 1874 года.",
+        "На этой сцене проходит оперный фестиваль имени Фёдора Шаляпина, впервые проведённый в 1982 году.",
+        "Здесь также проводят фестиваль классического балета имени Рудольфа Нуриева."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BE%D0%BF%D0%B5%D1%80%D1%8B_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D1%83%D1%81%D1%8B_%D0%94%D0%B6%D0%B0%D0%BB%D0%B8%D0%BB%D1%8F",
+      "gallery": [
+        {
+          "path": "remote/kazan/opera-2-1997196906560b66.jpg",
+          "title": "Tatar State Opera and Ballet Theatre (2020-09-02) 06.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Tatar_State_Opera_and_Ballet_Theatre_(2020-09-02)_06.jpg"
+        },
+        {
+          "path": "remote/kazan/opera-3-772615ecd74b5345.jpg",
+          "title": "Tatar State Opera and Ballet Theatre (2021-05-11) 03.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Tatar_State_Opera_and_Ballet_Theatre_(2021-05-11)_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "library",
+      "name": "Национальная библиотека",
+      "category": "Культура",
+      "address": "Улица Пушкина, 86",
+      "lat": 55.801631,
+      "lon": 49.125919,
+      "qid": "Q4314821",
+      "intro": "Современная библиотека и общественное пространство у Казанки.",
+      "history": "Национальная библиотека Татарстана хранит книжные собрания, рукописи и материалы о культуре республики. В 2020 году она переехала в здание бывшего Национального культурного центра у Казанки.\n\nСовременная библиотека работает и как общественное пространство. От здания удобно продолжить прогулку в сторону площади Свободы или набережной; условия входа и мероприятий могут меняться.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/library-f1dcbeaba87a4be3.jpg",
+      "photo_title": "National Library Tatarstan — NCC «Kazan» (2020-09-02), exterior 05.jpg",
+      "photo_author": "Engelberthumperdink",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:National_Library_Tatarstan_%E2%80%94_NCC_%C2%ABKazan%C2%BB_(2020-09-02),_exterior_05.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Публичную библиотеку в Казани открыли в 1865 году.",
+        "Первую коллекцию составили книги библиофила Ивана Второва, подаренные городу его сыном.",
+        "В собрании библиотеки представлены издания на татарском и многих других языках."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD",
+      "gallery": [
+        {
+          "path": "remote/kazan/library-2-df13c404bc1027b2.jpg",
+          "title": "National Library Tatarstan — NCC «Kazan» (2020-09-02), exterior 01.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:National_Library_Tatarstan_%E2%80%94_NCC_%C2%ABKazan%C2%BB_(2020-09-02),_exterior_01.jpg"
+        },
+        {
+          "path": "remote/kazan/library-3-fb9b8546535e5be2.jpg",
+          "title": "National Library Tatarstan — NCC «Kazan», exterior (2021-05-04) 03.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:National_Library_Tatarstan_%E2%80%94_NCC_%C2%ABKazan%C2%BB,_exterior_(2021-05-04)_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "oldsloboda",
+      "name": "Старо-Татарская слобода",
+      "category": "История",
+      "address": "Район улицы Габдуллы Тукая",
+      "lat": 55.778056,
+      "lon": 49.115,
+      "qid": "Q4439808",
+      "intro": "Исторический район с мечетями, усадьбами и татарскими домами.",
+      "history": "Старо-Татарская слобода — исторический район между озером Нижний Кабан и протокой Булак. Здесь формировалась жизнь татарской городской общины, работали купцы, просветители и ремесленники.\n\nНа улицах сохранились мечети, усадьбы и дома, связанные с историей татарской культуры. Удобно идти неспешно: район большой, а точка на карте лишь обозначает один из его ориентиров.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/oldsloboda-153b740337afc887.jpg",
+      "photo_title": "Old Tatar Sloboda in Kazan (April 2025) - 0 1.jpg",
+      "photo_author": "Vyacheslav Bukharov",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Old_Tatar_Sloboda_in_Kazan_(April_2025)_-_0_1.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "По-татарски исторический район называют «Иске бистә» — Старая слобода.",
+        "Одна из главных осей района — улица Габдуллы Тукая.",
+        "Исторически северная часть слободы была деловой, центральная — жилой и культурной, а южная — промышленной."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0",
+      "gallery": [
+        {
+          "path": "remote/kazan/oldsloboda-2-e35fc6113db67ade.jpg",
+          "title": "Old Tatar Sloboda in Kazan (April 2025) - 0 5.jpg",
+          "author": "Vyacheslav Bukharov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Old_Tatar_Sloboda_in_Kazan_(April_2025)_-_0_5.jpg"
+        },
+        {
+          "path": "remote/kazan/oldsloboda-3-85f9be744aca9803.jpg",
+          "title": "Old Tatar Sloboda in Kazan (April 2025) - 0 3.jpg",
+          "author": "Vyacheslav Bukharov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Old_Tatar_Sloboda_in_Kazan_(April_2025)_-_0_3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "marjani",
+      "name": "Мечеть аль-Марджани",
+      "category": "Архитектура",
+      "address": "Улица Каюма Насыри, 17",
+      "lat": 55.779722,
+      "lon": 49.1175,
+      "qid": "Q2528801",
+      "intro": "Историческая мечеть в Старо-Татарской слободе.",
+      "history": "Мечеть аль-Марджани появилась во второй половине XVIII века и стала важным центром религиозной жизни Старо-Татарской слободы. В её архитектуре сочетаются барочные формы и татарские декоративные мотивы.\n\nМечеть стоит недалеко от озера Кабан и исторических усадеб. При посещении действующей мечети заранее уточните часы доступа и правила для гостей.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/marjani-35f97d79e67ae595.jpg",
+      "photo_title": "Kazan-marjani-msq-w2.jpg",
+      "photo_author": "Kazaneer",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan-marjani-msq-w2.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Строительство в XVIII веке поддержали пожертвования 62 прихожан.",
+        "Раньше мечеть называли Юнусовской — по имени купеческой семьи, помогавшей храму.",
+        "Нынешнее название связано с просветителем и имамом Шигабутдином Марджани."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%B0%D0%BB%D1%8C-%D0%9C%D0%B0%D1%80%D0%B4%D0%B6%D0%B0%D0%BD%D0%B8",
+      "gallery": [
+        {
+          "path": "remote/kazan/marjani-2-1adf3eb1042850f7.jpg",
+          "title": "Marjani mosque in kazan (outside).jpg",
+          "author": "Reda Kerbush",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Marjani_mosque_in_kazan_(outside).jpg"
+        },
+        {
+          "path": "remote/kazan/marjani-3-01b0e78823bfe063.jpg",
+          "title": "Kazan-marjani-msq-n1.jpg",
+          "author": "Kazaneer",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan-marjani-msq-n1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "nurulla",
+      "name": "Мечеть Нурулла",
+      "category": "Архитектура",
+      "address": "Улица Московская, 74",
+      "lat": 55.782906,
+      "lon": 49.114556,
+      "qid": "Q1587654",
+      "intro": "Историческая мечеть в районе Старо-Татарской слободы.",
+      "history": "Мечеть Нурулла, известная также как Сеннобазарная, построили в середине XIX века рядом с бывшим Сенным базаром. Её история связана с татарским купечеством и семьёй Юнусовых.\n\nВ советский период здание использовалось для других нужд, а позднее мечеть восстановили. Она находится на пересечении улиц Московской и Парижской Коммуны, рядом с маршрутом по слободе.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/nurulla-89e0e8d685b72527.jpg",
+      "photo_title": "Kazan Nurulla Mosque 2024-07-16 2073.jpg",
+      "photo_author": "Mike1979 Russia",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Nurulla_Mosque_2024-07-16_2073.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Другое название мечети — Сенная: оно напоминает о располагавшемся здесь базаре.",
+        "В отличие от ряда старых мечетей слободы, минарет стоит у торца здания, а не на крыше.",
+        "В XX веке разобранный минарет восстановили при реставрации мечети."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%9D%D1%83%D1%80%D1%83%D0%BB%D0%BB%D0%B0",
+      "gallery": [
+        {
+          "path": "remote/kazan/nurulla-2-b42ed24c32772883.jpg",
+          "title": "Kazan Nurulla Mosque 2024-07-16 2074.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Nurulla_Mosque_2024-07-16_2074.jpg"
+        },
+        {
+          "path": "remote/kazan/nurulla-3-5110edb3917594b9.jpg",
+          "title": "Мечеть Нурулла 03.jpg",
+          "author": "Olesssya",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%D0%9D%D1%83%D1%80%D1%83%D0%BB%D0%BB%D0%B0_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "circus",
+      "name": "Казанский цирк",
+      "category": "Культура",
+      "address": "Площадь Тысячелетия, 2",
+      "lat": 55.798483,
+      "lon": 49.100733,
+      "qid": "Q4207792",
+      "intro": "Необычное круглое здание рядом с кремлём.",
+      "history": "Казанский цирк расположен рядом с площадью Тысячелетия и кремлём. Его современное для своего времени круглое здание открылось в 1960-х годах.\n\nНеобычный силуэт напоминает летающую тарелку и хорошо виден со стороны кремлёвских стен. Перед посещением представления стоит проверить расписание и работу касс.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/circus-010d0fadd8c37f64.jpg",
+      "photo_title": "Kazan circus (2022-07-05) 03.jpg",
+      "photo_author": "Vyacheslav Kirillin",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_circus_(2022-07-05)_03.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Первое здание цирка в Казани построили братья Никитины в 1890 году у Чёрного озера.",
+        "Круглый зал нынешнего здания спроектирован без внутренних колонн.",
+        "Над необычной конструкцией работали архитекторы, инженеры и казанские учёные-механики."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%86%D0%B8%D1%80%D0%BA",
+      "gallery": [
+        {
+          "path": "remote/kazan/circus-2-282ec9053bf4a95d.jpg",
+          "title": "Circus in Kazan, Tatarstan, Russia.jpg",
+          "author": "Andris Malygin",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Circus_in_Kazan,_Tatarstan,_Russia.jpg"
+        },
+        {
+          "path": "remote/kazan/circus-3-dbe67a28c4ec953c.jpg",
+          "title": "Kazan circus (2022-08-02) 03.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_circus_(2022-08-02)_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kamalold",
+      "name": "Старое здание театра Камала",
+      "category": "Архитектура",
+      "address": "Улица Татарстан, 1",
+      "lat": 55.782778,
+      "lon": 49.116958,
+      "qid": "Q4452511",
+      "intro": "Здание с характерным силуэтом рядом с озером Кабан.",
+      "history": "Здание на улице Татарстан долгое время было домом Татарского театра имени Галиасгара Камала. Его силуэт с выразительной крышей стал частью панорамы у озера Нижний Кабан.\n\nТеатр переехал в новое здание на другой стороне озера. Эта точка обозначает именно прежнее здание, которое интересно как памятная часть театральной и архитектурной истории города.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-2",
+      "photo": "remote/kazan/kamalold-c4ebba3fb691a34b.jpg",
+      "photo_title": "Театр имени Камала.jpg",
+      "photo_author": "TY-214",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9A%D0%B0%D0%BC%D0%B0%D0%BB%D0%B0.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Днём рождения театра считают дату первого публичного спектакля на татарском языке — 22 декабря 1906 года.",
+        "Одной из первых профессиональных татарских трупп была «Сайяр» — «передвижник».",
+        "Имя драматурга Галиасгара Камала театр получил в 1939 году."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%93%D0%B0%D0%BB%D0%B8%D0%B0%D1%81%D0%B3%D0%B0%D1%80%D0%B0_%D0%9A%D0%B0%D0%BC%D0%B0%D0%BB%D0%B0",
+      "gallery": [
+        {
+          "path": "remote/kazan/kamalold-2-2eb2dd2de317c403.jpg",
+          "title": "Kamal theatre (2022-04-07) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kamal_theatre_(2022-04-07)_01.jpg"
+        },
+        {
+          "path": "remote/kazan/kamalold-3-1627787c37aa83f9.jpg",
+          "title": "Kamal Tatar Academic Theatre 10.jpg",
+          "author": "MBH",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kamal_Tatar_Academic_Theatre_10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bogorod",
+      "name": "Казанский Богородицкий монастырь",
+      "category": "История",
+      "address": "Улица Большая Красная, 5",
+      "lat": 55.799393,
+      "lon": 49.113886,
+      "qid": "Q4207773",
+      "intro": "Монастырь, связанный с историей Казанской иконы Божией Матери.",
+      "history": "Казанский Богородицкий монастырь связан с историей обретения Казанской иконы Божией Матери в 1579 году. На протяжении веков комплекс перестраивался и оставался важным религиозным местом города.\n\nМонастырь находится на улице Большой Красной, недалеко от кремля. Собор восстановили на месте утраченного исторического храма; правила посещения территории лучше уточнить перед визитом.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/bogorod-7714328be308d9bb.jpg",
+      "photo_title": "Kazansky Bogoroditsky Monastery (2020-09-02) 11.jpg",
+      "photo_author": "Engelberthumperdink",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazansky_Bogoroditsky_Monastery_(2020-09-02)_11.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Монастырь основали в 1579 году как женскую обитель.",
+        "По церковному преданию, место обретения иконы было указано во сне девочке Матроне.",
+        "История обители связана с патриархом Гермогеном, который записал рассказ об обретении иконы."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/bogorod-2-a2a74cd2a452bd3a.jpg",
+          "title": "Kazansky Bogoroditsky Monastery (2021-07-26) 01.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazansky_Bogoroditsky_Monastery_(2021-07-26)_01.jpg"
+        },
+        {
+          "path": "remote/kazan/bogorod-3-4b07986c3f28912f.jpg",
+          "title": "Kazans Bogoroditsky Monastery 2024-07-13 1488.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazans_Bogoroditsky_Monastery_2024-07-13_1488.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ioann",
+      "name": "Иоанно-Предтеченский монастырь",
+      "category": "Архитектура",
+      "address": "Улица Баумана, 1/2",
+      "lat": 55.795286,
+      "lon": 49.1079,
+      "qid": "Q4207774",
+      "intro": "Монастырский ансамбль напротив Спасской башни кремля.",
+      "history": "Иоанно-Предтеченский монастырь расположен в историческом центре напротив Спасской башни. Его история начинается в XVI веке и связана со свияжским монастырским подворьем.\n\nКомплекс удобно рассмотреть по пути от улицы Баумана к кремлю. Это действующий религиозный объект, поэтому посещение внутренних помещений зависит от расписания и правил монастыря.",
+      "source": "https://tatmitropolia.ru/hramy_tatarstana/monastery/ioanna_predtechi/",
+      "photo": "remote/kazan/ioann-7bd605841bfa01b6.jpg",
+      "photo_title": "Kazan Ioanno-Predtechensky Monastery Archimandrite Building 2024-07-14 1716.jpg",
+      "photo_author": "Mike1979 Russia",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Ioanno-Predtechensky_Monastery_Archimandrite_Building_2024-07-14_1716.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Площадь перед монастырём до революции называлась Ивановской по его имени.",
+        "Изначально постройки обители были деревянными; после пожара XVII века их отстроили в камне.",
+        "Прежде напротив Спасской башни возвышался трёхшатровый монастырский собор, утраченный в XX веке."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/ioann-2-d3f832b1b8329918.jpg",
+          "title": "Kazansky Ioanno-Predtechensky Monastery (2023-04-11) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazansky_Ioanno-Predtechensky_Monastery_(2023-04-11)_02.jpg"
+        },
+        {
+          "path": "remote/kazan/ioann-3-c954f10a1f21277c.jpg",
+          "title": "Kazansky Ioanno-Predtechensky Monastery (2023-04-11) 04.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazansky_Ioanno-Predtechensky_Monastery_(2023-04-11)_04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apana",
+      "name": "Апанаевская мечеть",
+      "category": "Архитектура",
+      "address": "Улица Каюма Насыри, 27",
+      "lat": 55.777917,
+      "lon": 49.119361,
+      "qid": "Q617561",
+      "intro": "Старинная мечеть Старо-Татарской слободы.",
+      "history": "Апанаевская мечеть — один из исторических храмов Старо-Татарской слободы. Она появилась во второй половине XVIII века и связана с развитием татарского купечества.\n\nВ облике здания можно заметить сочетание архитектурных традиций разных эпох. Мечеть расположена на улице Каюма Насыри, рядом с другими памятниками исторического района.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/apana-0b6adf949c3051c3.jpg",
+      "photo_title": "Kazan Apanayev Mosque 2024-07-16 2045.jpg",
+      "photo_author": "Mike1979 Russia",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Apanayev_Mosque_2024-07-16_2045.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Мечеть также называли Байской и Пещерной; второе имя, вероятно, связано с рельефом местности.",
+        "В советское время внутри здания размещался детский сад.",
+        "Во время реставрации 2007–2011 годов восстановили минарет и историческое деление на два этажа."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D0%BD%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/apana-2-10cd75a0fef41adf.jpg",
+          "title": "Kazan Apanayev Mosque 2024-07-16 2047.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Apanayev_Mosque_2024-07-16_2047.jpg"
+        },
+        {
+          "path": "remote/kazan/apana-3-2a6d4faa3973a04d.jpg",
+          "title": "Apanayev Mosque (2022-08-30) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Apanayev_Mosque_(2022-08-30)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "burnay",
+      "name": "Бурнаевская мечеть",
+      "category": "Архитектура",
+      "address": "Улица Ахтямова, 7",
+      "lat": 55.774722,
+      "lon": 49.117111,
+      "qid": "Q1016744",
+      "intro": "Кирпичная мечеть с высоким минаретом в историческом квартале.",
+      "history": "Бурнаевская мечеть построена во второй половине XIX века на средства купца Мухаметсадыка Бурнаева. Её кирпичное здание и высокий минарет выделяются в старой застройке слободы.\n\nМечеть находится на улице Ахтямова, южнее более оживлённой части исторического района. При посещении действующего храма нужно учитывать действующие правила и время молитв.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/burnay-14e6f1534e2a3a2f.jpg",
+      "photo_title": "Kazan Burnay Mosque 2024-07-16 2139.jpg",
+      "photo_author": "Mike1979 Russia",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Burnay_Mosque_2024-07-16_2139.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Бурнаевскую мечеть называют также Третьей соборной.",
+        "Её кирпичное здание создано по проекту архитектора Петра Романова.",
+        "На фасадах можно найти мотивы татарского и русского зодчества."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BD%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/burnay-2-a10aaf54312de615.jpg",
+          "title": "Kazan Burnay Mosque 2024-07-16 2136.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Burnay_Mosque_2024-07-16_2136.jpg"
+        },
+        {
+          "path": "remote/kazan/burnay-3-48ba1634d57fbd5a.jpg",
+          "title": "Burnay Mosque (2023-11-29) 05.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Burnay_Mosque_(2023-11-29)_05.jpg"
+        }
+      ]
+    },
+    {
+      "id": "blue",
+      "name": "Голубая мечеть",
+      "category": "Архитектура",
+      "address": "Улица Фатыха Карима, 19/8",
+      "lat": 55.77725,
+      "lon": 49.112694,
+      "qid": "Q4142281",
+      "intro": "Мечеть начала XIX века в Старо-Татарской слободе.",
+      "history": "Голубая мечеть — историческая мечеть Старо-Татарской слободы, построенная в начале XIX века. Название связано с цветом её фасадов.\n\nЗдание находится на пересечении улиц Фатыха Карима и Сары Садыковой, среди других старинных мечетей и жилых домов. Для прогулки оно интересно как часть сохранившегося облика слободы.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/blue-aec7ab25e240e3e8.jpg",
+      "photo_title": "Kazan Blue Mosque 2024-07-16 2125.jpg",
+      "photo_author": "Mike1979 Russia",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Blue_Mosque_2024-07-16_2125.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "До каменного здания у общины была деревянная мечеть, которую позднее перевезли в деревню Суыксу.",
+        "Архитектор исторического каменного здания неизвестен.",
+        "Разобранный в советское время минарет восстановили в 2009 году."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/blue-2-1dbedfcafef84c23.jpg",
+          "title": "Kazan Blue Mosque (2023-03-17) 03.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Blue_Mosque_(2023-03-17)_03.jpg"
+        },
+        {
+          "path": "remote/kazan/blue-3-52a4f6aa22e2c79d.jpg",
+          "title": "Kazan Blue Mosque (2023-03-17) 09.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Blue_Mosque_(2023-03-17)_09.jpg"
+        }
+      ]
+    },
+    {
+      "id": "galeev",
+      "name": "Галеевская мечеть",
+      "category": "Архитектура",
+      "address": "Улица Габдуллы Тукая, 40/22",
+      "lat": 55.781389,
+      "lon": 49.111472,
+      "qid": "Q4132323",
+      "intro": "Историческая мечеть, связанная с татарской купеческой общиной.",
+      "history": "Галеевская мечеть связана с жизнью татарской общины и купеческих семей Казани. Её современный архитектурный облик сложился после нескольких этапов строительства и перестроек.\n\nОбратите внимание на минарет и декоративные детали фасада. Мечеть стоит на улице Габдуллы Тукая и может стать одной из остановок маршрута по Старо-Татарской слободе.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/galeev-a90467a48dacb58c.jpg",
+      "photo_title": "Galeev Mosque, Kazan (2022-08-30) 01.jpg",
+      "photo_author": "Vyacheslav Kirillin",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Galeev_Mosque,_Kazan_(2022-08-30)_01.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Мечеть также известна как Пятая соборная и мечеть Баруди.",
+        "С её приходом был связан просветитель Галимджан Баруди, создавший медресе «Мухаммадия».",
+        "В советское время здание использовали для гостиницы и коммунальных служб."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/galeev-2-362d00dcf6e30905.jpg",
+          "title": "Galeev Mosque, Kazan (2022-08-30) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Galeev_Mosque,_Kazan_(2022-08-30)_02.jpg"
+        },
+        {
+          "path": "remote/kazan/galeev-3-736592b07d1ffe0d.jpg",
+          "title": "Kazan Galeev Mosque 2024-07-16 2112.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Galeev_Mosque_2024-07-16_2112.jpg"
+        }
+      ]
+    },
+    {
+      "id": "azim",
+      "name": "Азимовская мечеть",
+      "category": "Архитектура",
+      "address": "Улица Фаткуллина, 15",
+      "lat": 55.769167,
+      "lon": 49.115417,
+      "qid": "Q1999626",
+      "intro": "Мечеть с тонким минаретом в старой части Казани.",
+      "history": "Азимовская мечеть построена в конце XIX века и названа по имени купеческой семьи Азимовых. Для её облика характерны высокий минарет и богатый декоративный рисунок.\n\nМечеть расположена в южной части исторической татарской слободы. Это действующее религиозное место; время и условия входа для гостей стоит уточнить заранее.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/azim-f5f80ec5ac23bee6.jpg",
+      "photo_title": "Azimov Mosque (2023-04-15) 08.jpg",
+      "photo_author": "Vyacheslav Kirillin",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Azimov_Mosque_(2023-04-15)_08.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Прежняя деревянная мечеть на этом месте появилась в начале XIX века.",
+        "Мечеть также называли Заводской: среди прихожан было много рабочих-мыловаров.",
+        "На территории рядом с храмом расположены здание медресе и деревянный дом муллы."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/azim-2-f95cf14d3c1c0eb7.jpg",
+          "title": "Azimov Mosque (2023-04-15) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Azimov_Mosque_(2023-04-15)_02.jpg"
+        },
+        {
+          "path": "remote/kazan/azim-3-43d14b540f6ce35f.jpg",
+          "title": "Azimov Mosque (2023-04-15) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Azimov_Mosque_(2023-04-15)_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sultan",
+      "name": "Султановская мечеть",
+      "category": "Архитектура",
+      "address": "Улица Габдуллы Тукая, 14",
+      "lat": 55.784,
+      "lon": 49.109,
+      "qid": "Q1634187",
+      "intro": "Мечеть XIX века с выразительной кирпичной архитектурой.",
+      "history": "Султановская мечеть появилась в XIX веке и относится к исторической застройке татарской Казани. Её здание связано с купеческой средой старого городского района.\n\nМечеть находится на улице Габдуллы Тукая, недалеко от других объектов слободы. Во время прогулки можно сравнить её силуэт и отделку с соседними мечетями разных эпох.",
+      "source": "https://go.kzn.ru/places/sultanovskaia-mecet",
+      "photo": "remote/kazan/sultan-3f41986bce42e970.jpg",
+      "photo_title": "Султановская мечеть, Казань, Россия.JPG",
+      "photo_author": "Клеткин Максим Евгеньевич",
+      "photo_license": "CC0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C,_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C,_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.JPG",
+      "photo_license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "facts": [
+        "У мечети несколько исторических названий, в том числе Усмановская и Красная.",
+        "Первую молитву в новой мечети прочёл просветитель Шигабутдин Марджани.",
+        "Минарет восстановили в 1990 году, а через несколько лет здание вернули верующим."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/sultan-2-7d29e9579f8b15c9.jpg",
+          "title": "Soltan Mosque (2022-08-30) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Soltan_Mosque_(2022-08-30)_01.jpg"
+        },
+        {
+          "path": "remote/kazan/sultan-3-e9130743ba03d495.jpg",
+          "title": "Soltan Mosque (2022-08-30) 03.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Soltan_Mosque_(2022-08-30)_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "zakabannaya",
+      "name": "Закабанная мечеть",
+      "category": "Архитектура",
+      "address": "Улица Хади Такташа, 26",
+      "lat": 55.77741,
+      "lon": 49.128034,
+      "qid": "Q1506616",
+      "intro": "Мечеть у озера Кабан, построенная в XX веке.",
+      "history": "Закабанная мечеть расположена к востоку от озера Кабан. Её история относится к XX веку и связана с памятной датой принятия ислама Волжской Булгарией.\n\nНазвание подсказывает положение мечети относительно озера. Она подходит как отдельная остановка на маршруте по восточному берегу, но доступ внутрь лучше уточнять заранее.",
+      "source": "https://go.kzn.ru/places/mecet-zakabannaia",
+      "photo": "remote/kazan/zakabannaya-e94d317f3a8f84f0.jpg",
+      "photo_title": "Kazan Zakabannaya Mosque 2024-07-17 2277.jpg",
+      "photo_author": "Mike1979 Russia",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Zakabannaya_Mosque_2024-07-17_2277.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Другое название храма — мечеть 1000-летия принятия ислама.",
+        "Проект архитектора Николая Печникова был подготовлен ещё до Первой мировой войны.",
+        "После закрытия мечети в советское время здание использовали в том числе как школу и детский сад."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C",
+      "gallery": [
+        {
+          "path": "remote/kazan/zakabannaya-2-f9e788e735103bd4.jpg",
+          "title": "Kazan Zakabannaya Mosque 2024-07-17 2283.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Zakabannaya_Mosque_2024-07-17_2283.jpg"
+        },
+        {
+          "path": "remote/kazan/zakabannaya-3-6150873b70aef0ff.jpg",
+          "title": "Zakabannaya Mosque (2021-09-13) 02.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Zakabannaya_Mosque_(2021-09-13)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "alexpassage",
+      "name": "Александровский пассаж",
+      "category": "Архитектура",
+      "address": "Кремлёвская улица, 17",
+      "lat": 55.794,
+      "lon": 49.115306,
+      "qid": "Q4061460",
+      "intro": "Историческое торговое здание с богатым фасадом.",
+      "history": "Александровский пассаж — историческое торговое здание на Кремлёвской улице. Его построили в конце XIX века; богато оформленный фасад делает пассаж одним из узнаваемых зданий центра.\n\nОбратите внимание на окна, декоративные элементы и сложный силуэт фасада. Состояние здания и доступ внутрь могут меняться, поэтому во время прогулки лучше рассчитывать на осмотр с улицы.",
+      "source": "https://go.kzn.ru/places/aleksandrovskii-passaz",
+      "photo": "remote/kazan/alexpassage-3c4ec2b5dad6996b.jpg",
+      "photo_title": "Kazan Alexandrovsky Passage 2024-07-18 2607.jpg",
+      "photo_author": "Mike1979 Russia",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Alexandrovsky_Passage_2024-07-18_2607.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Пассаж строили по заказу купца Александра Александрова в 1880-х годах.",
+        "Над главным входом можно рассмотреть две скульптурные фигуры кариатид.",
+        "Сестра владельца подарила здание городу для музея, но позднее здесь устроили магазины и меблированные комнаты."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%B6_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/alexpassage-2-7b27a770eb15f5d1.jpg",
+          "title": "Kazan Alexandrovsky Passage 2024-07-14 1758.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Alexandrovsky_Passage_2024-07-14_1758.jpg"
+        },
+        {
+          "path": "remote/kazan/alexpassage-3-b2279d40e1e37ff8.jpg",
+          "title": "Kazan Alexandrovsky Passage Detail 2024-07-14 1760.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Alexandrovsky_Passage_Detail_2024-07-14_1760.jpg"
+        }
+      ]
+    },
+    {
+      "id": "zoo",
+      "name": "Казанский зооботанический сад",
+      "category": "Прогулки",
+      "address": "Улица Хади Такташа, 112",
+      "lat": 55.765833,
+      "lon": 49.134444,
+      "qid": "Q2034194",
+      "intro": "Исторический зооботанический сад недалеко от озера Кабан.",
+      "history": "История Казанского зооботанического сада связана с университетским ботаническим садом начала XIX века. Со временем здесь сформировался комплекс с коллекциями растений и животных.\n\nСад расположен в районе улицы Хади Такташа, южнее озера Нижний Кабан. Для посещения потребуется отдельно проверить расписание, действующие входы и стоимость билетов.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-2",
+      "photo": "remote/kazan/zoo-e5569ec3f6e6946f.jpg",
+      "photo_title": "Kazan zoo-botanical garden (entrance).jpg",
+      "photo_author": "Lumaca",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_zoo-botanical_garden_(entrance).jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "История сада начинается с университетского ботанического сада, основанного Карлом Фуксом в 1806 году.",
+        "Участок на берегу Кабана приобрели для ботанического сада в 1829 году.",
+        "Ботанический сад и зоосад объединили в одно учреждение в 1931 году."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BE%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4",
+      "gallery": [
+        {
+          "path": "remote/kazan/zoo-2-1b4eb3d48e48d033.jpg",
+          "title": "13. Казанский зооботанический сад, ботанический отдел.JPG",
+          "author": "Алексеев Игорь Евгеньевич",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:13._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BE%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4,_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%82%D0%B4%D0%B5%D0%BB.JPG"
+        },
+        {
+          "path": "remote/kazan/zoo-3-be6ecfa927ec0906.jpg",
+          "title": "Kazan zoo-botanical garden (2021-10-27) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_zoo-botanical_garden_(2021-10-27)_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "station",
+      "name": "Казанский железнодорожный вокзал",
+      "category": "Архитектура",
+      "address": "Привокзальная площадь, 1А",
+      "lat": 55.788229,
+      "lon": 49.100121,
+      "qid": "Q34085",
+      "intro": "Вокзальный ансамбль с узнаваемым зданием из красного кирпича.",
+      "history": "Главный железнодорожный вокзал Казани — важная городская точка встречи путешественников. Историческое здание из красного кирпича отличается от более поздних построек вокзального комплекса.\n\nВокзал расположен на Привокзальной площади к западу от центра. Его можно включить в маршрут от улицы Баумана, если хочется увидеть не только музеи и храмы, но и транспортную архитектуру города.",
+      "source": "https://go.kzn.ru/places/centralnyi-vokzal",
+      "photo": "remote/kazan/station-20e3a77b80951b1b.jpg",
+      "photo_title": "Train Station - Kazan - Russia.JPG",
+      "photo_author": "Adam Jones Adam63",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Train_Station_-_Kazan_-_Russia.JPG",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Железная дорога пришла в Казань в 1893 году.",
+        "После сильного пожара 1992 года главное здание восстановили к 1997 году.",
+        "От станции начинается железнодорожная линия в аэропорт Казани."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C-%D0%9F%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F",
+      "gallery": [
+        {
+          "path": "remote/kazan/station-2-c2e5c625cc7b073d.jpg",
+          "title": "Kazan Railway Station 2024-07-10 0678.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Railway_Station_2024-07-10_0678.jpg"
+        },
+        {
+          "path": "remote/kazan/station-3-c6dc4141cefd95c9.jpg",
+          "title": "Kazan Railway Station 2024-07-13 1314.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Railway_Station_2024-07-13_1314.jpg"
+        }
+      ]
+    },
+    {
+      "id": "temple",
+      "name": "Храм всех религий",
+      "category": "Архитектура",
+      "address": "Посёлок Старое Аракчино",
+      "lat": 55.800556,
+      "lon": 48.975,
+      "qid": "Q1149480",
+      "intro": "Необычный архитектурный и культурный комплекс на берегу Волги.",
+      "history": "Храм всех религий, или Вселенский храм, — архитектурный проект художника Ильдара Ханова в Старом Аракчине. Комплекс задуман как культурный символ единства разных религий и традиций.\n\nОн находится заметно дальше от центра, на берегу Волги. Это не обычный действующий храм для совместных богослужений; перед поездкой стоит проверить доступность территории и способ проезда.",
+      "source": "https://go.kzn.ru/articles/top-20-dostoprimecatelnostei-kazani",
+      "photo": "remote/kazan/temple-ee041a32c4e222ab.jpg",
+      "photo_title": "All Religions Kazan Temple 111.jpeg",
+      "photo_author": "exlex",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:All_Religions_Kazan_Temple_111.jpeg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Проект начал создавать художник и скульптор Ильдар Ханов.",
+        "После его смерти работу над комплексом продолжили брат и сестра художника.",
+        "Сочетание разных архитектурных символов задумано как образ духовного единства."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B0%D0%BC",
+      "gallery": [
+        {
+          "path": "remote/kazan/temple-2-1caab52e10b25fa2.jpg",
+          "title": "All Religions Temple in Kazan 02.jpg",
+          "author": "MBH",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:All_Religions_Temple_in_Kazan_02.jpg"
+        },
+        {
+          "path": "remote/kazan/temple-3-f0f7594339c8252d.jpg",
+          "title": "20220623 All Religions Temple in Kazan 01.jpg",
+          "author": "Sergey A. Demidov",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:20220623_All_Religions_Temple_in_Kazan_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kremlstreet",
+      "name": "Кремлёвская улица",
+      "category": "Прогулки",
+      "address": "Кремлёвская улица",
+      "lat": 55.795716,
+      "lon": 49.110542,
+      "qid": "Q4240175",
+      "intro": "Историческая улица от кремля в сторону университета.",
+      "history": "Кремлёвская улица связывает район кремля с университетским кварталом. Вдоль неё сохранились здания разных эпох, в том числе Александровский пассаж и дом Ушковой.\n\nЭту улицу удобно использовать как основу прогулки по историческому центру. Поскольку она протяжённая, координата в приложении обозначает только один ориентир на ней.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-1",
+      "photo": "remote/kazan/kremlstreet-f30a228bc4d8ac27.jpg",
+      "photo_title": "Кремлевская 1. Казань.jpg",
+      "photo_author": "Геллер Павел Александрович",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_1._%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "За свою историю улица носила названия Спасская, Воскресенская и улица Ленина.",
+        "Современное название закрепилось за ней в 1996 году.",
+        "Улица идёт по гребню холма и заканчивается у университетского квартала."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/kremlstreet-2-4d887b26a86f4253.jpg",
+          "title": "Kazan Kremlyovskaya str 13 House 2024-07-18 2605.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Kremlyovskaya_str_13_House_2024-07-18_2605.jpg"
+        },
+        {
+          "path": "remote/kazan/kremlstreet-3-347b2b015ea8d312.jpg",
+          "title": "Kremlyovskaya street 3, Kazan (2021-05-11) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kremlyovskaya_street_3,_Kazan_(2021-05-11)_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "parkpobedy",
+      "name": "Парк Победы",
+      "category": "Прогулки",
+      "address": "Проспект Ямашева",
+      "lat": 55.830008,
+      "lon": 49.107528,
+      "qid": "Q4345245",
+      "intro": "Большой парк и мемориальное пространство на севере города.",
+      "history": "Парк Победы — крупный городской парк с мемориалом, посвящённым памяти о Великой Отечественной войне. Он находится в северной части Казани, за пределами пешего центра.\n\nЗдесь есть прогулочные дорожки и открытые пространства. При выборе маршрута учитывайте расстояние: парк лучше посещать отдельно от компактной прогулки вокруг кремля.",
+      "source": "https://go.kzn.ru/places/istoriko-memorialnyi-kompleks-kniga-pamiati",
+      "photo": "remote/kazan/parkpobedy-8d7f6d52fe628827.jpg",
+      "photo_title": "Victory park (Kazan) (262-1).jpg",
+      "photo_author": "Vitaly V. Kuzmin",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Victory_park_(Kazan)_(262-1).jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Работы по созданию парка начались в 1970-е годы на заболоченной территории.",
+        "У входа со стороны проспекта Ямашева возвышается 42-метровая Стела Победы.",
+        "В парке можно увидеть открытую выставку военной техники разных периодов."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BA_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/parkpobedy-2-54480e593277cf16.jpg",
+          "title": "Victory Park (Kazan) 03.jpg",
+          "author": "MBH",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Victory_Park_(Kazan)_03.jpg"
+        },
+        {
+          "path": "remote/kazan/parkpobedy-3-b8186e6c36bf65ec.jpg",
+          "title": "Victory Park (Kazan) 01.jpg",
+          "author": "MBH",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Victory_Park_(Kazan)_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "parkgorky",
+      "name": "Парк имени Горького",
+      "category": "Прогулки",
+      "address": "Улица Николая Ершова, 7А",
+      "lat": 55.8,
+      "lon": 49.14722,
+      "qid": "Q4504335",
+      "intro": "Зелёный парк с аллеями и прогулочными дорожками.",
+      "history": "Парк имени Горького — одно из известных зелёных пространств Казани. Городские прогулочные места в этом районе имеют историю, уходящую в XIX век.\n\nВ парке можно пройти по аллеям и сделать остановку вдали от плотной застройки центра. Он расположен восточнее площади Свободы; удобный вход выбирайте с учётом своего маршрута.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-2",
+      "photo": "remote/kazan/parkgorky-50fea58d829af2e0.jpg",
+      "photo_title": "Парк Горького, Казань.jpg",
+      "photo_author": "Дмитрий Сагдеев",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%80%D0%BA_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE,_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Из-за холмистого ландшафта это место в XIX веке прозвали «Русской Швейцарией».",
+        "В советское время отсюда можно было спуститься к пляжу на Казанке; туда вела и канатная дорога.",
+        "После благоустройства в парке появился светомузыкальный фонтан."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%B8_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/parkgorky-2-8a1355ae6cb67d6f.jpg",
+          "title": "Фонтан в Казанском парке Горького.jpg",
+          "author": "Дмитрий Сагдеев",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD_%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE.jpg"
+        },
+        {
+          "path": "remote/kazan/parkgorky-3-7652b28cfe88ca6f.jpg",
+          "title": "Gorky park, Kazan (2020-09-15) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Gorky_park,_Kazan_(2020-09-15)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "shamil",
+      "name": "Дом Шамиля",
+      "category": "Культура",
+      "address": "Улица Габдуллы Тукая, 74",
+      "lat": 55.777478,
+      "lon": 49.115422,
+      "qid": "Q4165442",
+      "intro": "Особняк в Старо-Татарской слободе, где расположен музей Габдуллы Тукая.",
+      "history": "Дом Шамиля — исторический особняк в Старо-Татарской слободе, связанный с семьёй купца Ибрагима Апакова и семьёй Шамиля. В здании расположен литературный музей поэта Габдуллы Тукая.\n\nОсобняк узнаётся по выразительному фасаду с декоративными башенками. Для посещения музейной экспозиции заранее уточните часы работы и условия входа.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/shamil-7e4760611aa1066a.jpg",
+      "photo_title": "Kazan-shamil-house.jpg",
+      "photo_author": "Kazaneer",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan-shamil-house.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Дом связан с семьёй сына имама Шамиля — Мухаммеда-Шафи.",
+        "В архитектурном декоре сочетаются мотивы европейского средневековья и местные вкусы.",
+        "Литературный музей Габдуллы Тукая открылся в особняке в 1986 году."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%A8%D0%B0%D0%BC%D0%B8%D0%BB%D1%8F",
+      "gallery": [
+        {
+          "path": "remote/kazan/shamil-2-97aa2f51c2d6494a.jpg",
+          "title": "Kazan Shamil House 2024-07-16 2016.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Shamil_House_2024-07-16_2016.jpg"
+        },
+        {
+          "path": "remote/kazan/shamil-3-52ce4ce12ec52369.jpg",
+          "title": "Shamil House, Kazan (2021-04-06) 11.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Shamil_House,_Kazan_(2021-04-06)_11.jpg"
+        }
+      ]
+    },
+    {
+      "id": "millennium",
+      "name": "Парк Тысячелетия",
+      "category": "Прогулки",
+      "address": "Улица Островского",
+      "lat": 55.783458,
+      "lon": 49.123606,
+      "qid": "Q4345271",
+      "intro": "Городской парк рядом с озером Нижний Кабан.",
+      "history": "Парк Тысячелетия находится недалеко от озера Нижний Кабан. Его открыли к празднованию тысячелетия Казани, а центральная часть парка устроена вокруг декоративного фонтана.\n\nЭто место удобно соединить с прогулкой по набережной Кабана и прилегающим улицам. Как и для других парков, координата служит ориентиром, а подходящий вход можно выбрать на карте.",
+      "source": "https://go.kzn.ru/places/park-tysiaceletiia",
+      "photo": "remote/kazan/millennium-fc678a42e62b2f60.jpg",
+      "photo_title": "Millennium park, Kazan (2021-09-19) 06.jpg",
+      "photo_author": "Engelberthumperdink",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Millennium_park,_Kazan_(2021-09-19)_06.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Аллеи парка сходятся к круглому фонтану в форме большого казана.",
+        "У ворот и возле фонтана можно заметить фигуры зилантов — мифических символов Казани.",
+        "В парке установлен памятник средневековому булгарскому поэту Кул Гали."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BA_%D0%A2%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D1%8F",
+      "gallery": [
+        {
+          "path": "remote/kazan/millennium-2-3c016c8d187c51b0.jpg",
+          "title": "Millennium park, Kazan (2021-09-19) 15.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Millennium_park,_Kazan_(2021-09-19)_15.jpg"
+        },
+        {
+          "path": "remote/kazan/millennium-3-b945a11c37c3d8de.jpg",
+          "title": "Millennium park, Kazan (2021-09-19) 22.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Millennium_park,_Kazan_(2021-09-19)_22.jpg"
+        }
+      ]
+    },
+    {
+      "id": "lyadsky",
+      "name": "Лядской сад",
+      "category": "Прогулки",
+      "address": "Улица Щапова, 37",
+      "lat": 55.793023,
+      "lon": 49.134,
+      "qid": "Q21641331",
+      "intro": "Небольшой исторический сад в центре Казани.",
+      "history": "Лядской сад — старинный городской сад на улице Щапова. В его истории сохранилась связь с усадебной застройкой этой части Казани.\n\nВ саду находится памятник поэту Гавриилу Державину, восстановленный в начале XXI века. Небольшой сквер подходит для остановки по пути к музею изобразительных искусств или парку Горького.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-2",
+      "photo": "remote/kazan/lyadsky-b287058ea40d4566.jpg",
+      "photo_title": "\"Ljadskoj\" garden - Лядской садик - panoramio.jpg",
+      "photo_author": "Виктор Сотов",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%22Ljadskoj%22_garden_-_%D0%9B%D1%8F%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%B0%D0%B4%D0%B8%D0%BA_-_panoramio.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "facts": [
+        "Первоначальное название сада связано с фамилией генерал-майора Лецкого; в городской речи оно изменилось на «Лядской».",
+        "Старинный фонтан с фигурой девушки был посвящён открытию первого казанского водопровода.",
+        "Памятник Державину у входа — копия утраченного казанского памятника XIX века."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D0%B4%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%B0%D0%B4",
+      "gallery": [
+        {
+          "path": "remote/kazan/lyadsky-2-41cf46f86f37a9c1.jpg",
+          "title": "Fountain Lyadskoy garden (2022-09-14) 03.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Fountain_Lyadskoy_garden_(2022-09-14)_03.jpg"
+        },
+        {
+          "path": "remote/kazan/lyadsky-3-670a1e4af26969ad.jpg",
+          "title": "Lyadskoy garden, Kazan (2021-07-06) 02.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Lyadskoy_garden,_Kazan_(2021-07-06)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ekiyat",
+      "name": "Театр кукол «Экият»",
+      "category": "Культура",
+      "address": "Петербургская улица, 57",
+      "lat": 55.78,
+      "lon": 49.138056,
+      "qid": "Q13207309",
+      "intro": "Театр кукол в здании, похожем на сказочный замок.",
+      "history": "Татарский государственный театр кукол «Экият» работает с 1930-х годов. Его современное здание на Петербургской улице легко узнать по башенкам и сказочным архитектурным деталям.\n\nНазвание «Экият» переводится с татарского как «сказка». Здание можно рассмотреть во время прогулки с детьми, а для посещения спектакля нужно заранее проверить афишу.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-2",
+      "photo": "remote/kazan/ekiyat-3c75a02afcbc1494.jpg",
+      "photo_title": "Театр Кукол (Puppet Theatre) - panoramio (2).jpg",
+      "photo_author": "Artem Murugov",
+      "photo_license": "CC BY 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%9A%D1%83%D0%BA%D0%BE%D0%BB_(Puppet_Theatre)_-_panoramio_(2).jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by/3.0",
+      "facts": [
+        "Театр открылся в 1934 году как интернациональный театр кукол.",
+        "Уже в первые годы спектакли ставили на двух языках.",
+        "В 1937 году театр обратился к сказке Габдуллы Тукая «Коза и баран»."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B8%D1%8F%D1%82",
+      "gallery": [
+        {
+          "path": "remote/kazan/ekiyat-2-c35d86eddbae48cf.jpg",
+          "title": "Татарский государственный театр кукол \"Экият\".jpg",
+          "author": "Konstantinkar87",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BA%D1%83%D0%BA%D0%BE%D0%BB_%22%D0%AD%D0%BA%D0%B8%D1%8F%D1%82%22.jpg"
+        },
+        {
+          "path": "remote/kazan/ekiyat-3-27aba247157c3d76.jpg",
+          "title": "Театр кукол «Экият»-2.jpg",
+          "author": "Фидель22",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%BA%D1%83%D0%BA%D0%BE%D0%BB_%C2%AB%D0%AD%D0%BA%D0%B8%D1%8F%D1%82%C2%BB-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "centerfamily",
+      "name": "Центр семьи «Казан»",
+      "category": "Архитектура",
+      "address": "Улица Сибгата Хакима, 4",
+      "lat": 55.812825,
+      "lon": 49.108254,
+      "qid": "Q33138462",
+      "intro": "Дворец бракосочетания в форме большого казана.",
+      "history": "Центр семьи «Казан» — дворец бракосочетания на берегу Казанки. Форма здания напоминает большой казан и отсылает к одному из узнаваемых символов города.\n\nОбъект находится на другом берегу реки относительно кремля. Со смотровой площадки открывается панорама города, но её режим работы и доступность лучше проверить перед поездкой.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-2",
+      "photo": "remote/kazan/centerfamily-fc8bad020ca602bb.jpg",
+      "photo_title": "Центр семьи \"Казан\"(HDR).jpg",
+      "photo_author": "Murdic",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D1%81%D0%B5%D0%BC%D1%8C%D0%B8_%22%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%22(HDR).jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Автор необычного здания — скульптор и архитектор Даши Намдаков.",
+        "Смотровая площадка расположена на высоте около 32 метров над рекой.",
+        "Рядом установлены скульптуры зилантов и барсов с детёнышами."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD_(%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D1%81%D0%B5%D0%BC%D1%8C%D0%B8)",
+      "gallery": [
+        {
+          "path": "remote/kazan/centerfamily-2-ed12426542bae91e.jpg",
+          "title": "Family Center Kazan.jpg",
+          "author": "Rafael Mukhametdinov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Family_Center_Kazan.jpg"
+        },
+        {
+          "path": "remote/kazan/centerfamily-3-c1e61e220413d996.jpg",
+          "title": "Family Center Kazan in night.jpg",
+          "author": "Rafael Mukhametdinov",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Family_Center_Kazan_in_night.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spaso",
+      "name": "Спасо-Преображенский монастырь",
+      "category": "История",
+      "address": "Территория Казанского кремля",
+      "lat": 55.796782,
+      "lon": 49.106709,
+      "qid": "Q4430834",
+      "intro": "Исторический монастырский комплекс в Казанском кремле.",
+      "history": "Спасо-Преображенский монастырь был основан на территории Казанского кремля в XVI веке. За долгую историю комплекс менялся, а часть построек не сохранилась.\n\nСегодня его историческая территория находится внутри кремля. Во время прогулки можно увидеть сохранившиеся и восстановленные элементы комплекса, учитывая правила посещения музейной территории.",
+      "source": "https://kazan-kremlin.ru/",
+      "photo": "remote/kazan/spaso-d5e771f7ddbdfa2f.jpg",
+      "photo_title": "Spaso-Preobrazhensky Monastery, Kazan (2023-07-04) 01.jpg",
+      "photo_author": "Vyacheslav Kirillin",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Spaso-Preobrazhensky_Monastery,_Kazan_(2023-07-04)_01.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Основателем обители был архимандрит Варсонофий.",
+        "Монастырь занимал небольшой участок в юго-западной части кремля, у его крепостных стен.",
+        "Одна из ранних построек комплекса — церковь Николы Ратного."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/spaso-2-b97f50b737723e3d.jpg",
+          "title": "Spaso-Preobrazhensky Monastery, Kazan (2023-07-04) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Spaso-Preobrazhensky_Monastery,_Kazan_(2023-07-04)_02.jpg"
+        },
+        {
+          "path": "remote/kazan/spaso-3-a383051c195c56e1.jpg",
+          "title": "Spaso-Preobrazhensky Monastery, Kazan (2023-07-04) 03.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Spaso-Preobrazhensky_Monastery,_Kazan_(2023-07-04)_03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spasskaya",
+      "name": "Спасская башня",
+      "category": "История",
+      "address": "Площадь 1 Мая, Казанский кремль",
+      "lat": 55.79648,
+      "lon": 49.108207,
+      "qid": "Q4430888",
+      "intro": "Главная проездная башня Казанского кремля.",
+      "history": "Спасская башня — главная проездная башня Казанского кремля. Её белокаменная нижняя часть относится к истории строительства крепости XVI века, а верхние ярусы появились позднее.\n\nБашня выходит к площади 1 Мая и служит узнаваемым входом в кремль. Рядом находятся памятник Мусе Джалилю и Национальный музей Татарстана.",
+      "source": "https://go.kzn.ru/places/ploshhad-1-maia",
+      "photo": "remote/kazan/spasskaya-7fdfbef12acd0a92.jpg",
+      "photo_title": "Kazan Kremlin. Spasskaya Tower P8111872 2200.jpg",
+      "photo_author": "Alexxx1979",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kazan_Kremlin._Spasskaya_Tower_P8111872_2200.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Название башни связано с иконой Спаса Нерукотворного, находившейся над воротами.",
+        "К строительству белокаменной башни причастны псковские мастера Иван Ширяй и Постник Яковлев.",
+        "В башне открыт музей, посвящённый истории крепостных сооружений кремля."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/spasskaya-2-66cb80841edbf7ac.jpg",
+          "title": "Kazan Kremlin Spasskaya Tower 2024-07-13 1326.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Kremlin_Spasskaya_Tower_2024-07-13_1326.jpg"
+        },
+        {
+          "path": "remote/kazan/spasskaya-3-dcc8918a6bd279d2.jpg",
+          "title": "Kazan Kremlin Spasskaya Tower 2024-07-13 1440.jpg",
+          "author": "Mike1979 Russia",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazan_Kremlin_Spasskaya_Tower_2024-07-13_1440.jpg"
+        }
+      ]
+    },
+    {
+      "id": "chakchak",
+      "name": "Музей чак-чака",
+      "category": "Культура",
+      "address": "Улица Парижской Коммуны, 18",
+      "lat": 55.782035,
+      "lon": 49.112529,
+      "qid": "Q21641941",
+      "intro": "Музей о татарском угощении и традициях гостеприимства.",
+      "history": "Музей чак-чака знакомит с историей татарского угощения и традициями домашнего гостеприимства. Он находится в историческом доме на улице Парижской Коммуны.\n\nЭкспозиция посвящена не только сладости, но и быту татарского купеческого дома. Экскурсии и чаепития могут проходить по записи, поэтому условия посещения лучше уточнить заранее.",
+      "source": "https://go.kzn.ru/routes/po-staro-tatarskoi-slobode",
+      "photo": "remote/kazan/chakchak-a61f703132e19dc8.jpg",
+      "photo_title": "Музейчакчака.jpg",
+      "photo_author": "Сулейманова Раушания",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%D1%87%D0%B0%D0%BA%D1%87%D0%B0%D0%BA%D0%B0.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "Музей открылся в 2014 году как частная инициатива.",
+        "Интерьер татарского дома воссоздавали по старым фотографиям и сохранившимся предметам быта.",
+        "Кроме чак-чака здесь рассказывают о других традиционных угощениях, например баурсаке."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D1%87%D0%B0%D0%BA-%D1%87%D0%B0%D0%BA%D0%B0",
+      "gallery": [
+        {
+          "path": "remote/kazan/chakchak-2-c4cd70571a02c8c8.jpg",
+          "title": "Музейная лавка.JPG",
+          "author": "Сулейманова Раушания",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0.JPG"
+        },
+        {
+          "path": "remote/kazan/chakchak-3-14b0da961ffd05ef.jpg",
+          "title": "Музей чак-чака.jpg",
+          "author": "Сулейманова Раушания",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D1%87%D0%B0%D0%BA-%D1%87%D0%B0%D0%BA%D0%B0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hermitage",
+      "name": "Сад «Эрмитаж»",
+      "category": "Прогулки",
+      "address": "Кочетов переулок",
+      "lat": 55.790556,
+      "lon": 49.128889,
+      "qid": "Q16693784",
+      "intro": "Тихий исторический сад неподалёку от центра.",
+      "history": "Сад «Эрмитаж» — историческое зелёное пространство в центральной части Казани. Его история связана с городской культурой и традицией публичных садов рубежа XIX и XX веков.\n\nНебольшие дорожки и деревья делают сад местом для спокойной остановки во время городской прогулки. Он расположен в стороне от кремля, рядом со старыми улицами центральных кварталов.",
+      "source": "https://go.kzn.ru/routes/pervyi-raz-v-kazani-den-2",
+      "photo": "remote/kazan/hermitage-1978e70c9a7283ac.jpg",
+      "photo_title": "Hermitage garden, Kazan (2024-06-12) 20.jpg",
+      "photo_author": "Vyacheslav Kirillin",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Hermitage_garden,_Kazan_(2024-06-12)_20.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "В разные времена сад назывался Александровским, Износковским и садом Николаи.",
+        "Здесь когда-то работали летний театр, эстрада и библиотека.",
+        "В саду выступал Фёдор Шаляпин и проходили цирковые представления."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6_(%D1%81%D0%B0%D0%B4%2C_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)",
+      "gallery": [
+        {
+          "path": "remote/kazan/hermitage-2-0062ff9957cee8d7.jpg",
+          "title": "Hermitage garden, Kazan (2024-06-12) 01.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Hermitage_garden,_Kazan_(2024-06-12)_01.jpg"
+        },
+        {
+          "path": "remote/kazan/hermitage-3-ed8f7085eb08713e.jpg",
+          "title": "Hermitage garden, Kazan (2024-06-12) 02.jpg",
+          "author": "Vyacheslav Kirillin",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Hermitage_garden,_Kazan_(2024-06-12)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "artmuseum",
+      "name": "Музей изобразительных искусств",
+      "category": "Культура",
+      "address": "Улица Карла Маркса, 64",
+      "lat": 55.79474,
+      "lon": 49.13418,
+      "qid": "Q4146878",
+      "intro": "Художественный музей в особняке на улице Карла Маркса.",
+      "history": "Государственный музей изобразительных искусств Татарстана создан в 1958 году на основе художественного собрания республиканского музея. Его коллекция включает живопись, графику и другие виды искусства.\n\nГлавное здание находится в историческом особняке на улице Карла Маркса. Для знакомства с экспозицией и временными выставками заранее проверьте часы работы и билеты на сайте музея.",
+      "source": "https://rtgmii.museum.tatar.ru/about",
+      "photo": "remote/kazan/artmuseum-e27ebd2b22569981.jpg",
+      "photo_title": "Гл здание ГМИИ РТ.JPG",
+      "photo_author": "Екатерина Егорова",
+      "photo_license": "Public domain",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BB_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%93%D0%9C%D0%98%D0%98_%D0%A0%D0%A2.JPG",
+      "photo_license_url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BB_%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%93%D0%9C%D0%98%D0%98_%D0%A0%D0%A2.JPG",
+      "facts": [
+        "Главная экспозиция находится в бывшей резиденции генерала Александра Сандецкого.",
+        "У музея есть и другие площадки, включая галерею «Хазинэ» в Казанском кремле.",
+        "В музейный комплекс входит не только особняк, но и окружающий его парк."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B0%D0%BD",
+      "gallery": [
+        {
+          "path": "remote/kazan/artmuseum-2-f1f53991f3986d0e.jpg",
+          "title": "Усадьба Сандецкого (музей изобразительного искусства) 02.jpg",
+          "author": "Vaihtovirta",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0_%D0%A1%D0%B0%D0%BD%D0%B4%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0)_02.jpg"
+        },
+        {
+          "path": "remote/kazan/artmuseum-3-343ea410411b3782.jpg",
+          "title": "Sandetsky Palace (2021-05-15) 02.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Sandetsky_Palace_(2021-05-15)_02.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kabanquay",
+      "name": "Набережная озера Кабан",
+      "category": "Прогулки",
+      "address": "Берег озера Нижний Кабан",
+      "lat": 55.779722,
+      "lon": 49.119167,
+      "qid": "Q99446293",
+      "intro": "Прогулочные дорожки и виды у воды рядом со Старо-Татарской слободой.",
+      "history": "Набережная Нижнего Кабана проходит вдоль озера рядом со Старо-Татарской слободой. После благоустройства берег стал доступным пространством для прогулок и отдыха у воды.\n\nНа маршруте можно увидеть воду, старые кварталы и новые городские пространства с разных точек. Береговая линия протяжённая: отметка в приложении указывает один ориентир, а не всю набережную.",
+      "source": "https://go.kzn.ru/places/nabereznaia-ozera-kaban",
+      "photo": "remote/kazan/kabanquay-ab8f3401d3fc7321.jpg",
+      "photo_title": "Набережная озера Кабан.jpg",
+      "photo_author": "Zilyagaripova",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B7%D0%B5%D1%80%D0%B0_%D0%9A%D0%B0%D0%B1%D0%B0%D0%BD.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "facts": [
+        "В 2015 году для развития берегов озера провели международный архитектурный конкурс.",
+        "Победившая концепция получила название «Эластичная лента».",
+        "У старого здания театра Камала на берегу устроена прогулочная эспланада с амфитеатром."
+      ],
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B7%D0%B5%D1%80%D0%B0_%D0%9A%D0%B0%D0%B1%D0%B0%D0%BD",
+      "gallery": [
+        {
+          "path": "remote/kazan/kabanquay-2-e2959441c8523e08.jpg",
+          "title": "Kaban lake quay (2021-07-26) 01.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kaban_lake_quay_(2021-07-26)_01.jpg"
+        },
+        {
+          "path": "remote/kazan/kabanquay-3-8962422217fb56ae.jpg",
+          "title": "Kaban lake quay (2021-07-26) 02.jpg",
+          "author": "Engelberthumperdink",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Kaban_lake_quay_(2021-07-26)_02.jpg"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "kremlin": {
+      "name": "Kazan Kremlin",
+      "address": "Kazan Kremlin grounds",
+      "intro": "A fortress, museums and monuments from different eras in the heart of Kazan.",
+      "history": "The Kazan Kremlin is a historic fortress on the high bank of the Kazanka River. Its grounds preserve traces of different periods in the city's history, and the present-day complex brings together monuments of Tatar and Russian culture. It was inscribed on the UNESCO World Heritage List in 2000.\n\nWithin the walls you can see the Kul Sharif Mosque, the Annunciation Cathedral and the Soyembika Tower, as well as visit museums. Viewpoints look out over the Kazanka and its opposite bank; a convenient entrance is by the Spasskaya Tower.",
+      "facts": [
+        "The walls follow the shape of the hill, forming an irregular polygon.",
+        "Archaeologists have found traces of settlements from several periods; the earliest fortifications were wooden.",
+        "The official residence of the head of Tatarstan is on the Kremlin grounds."
+      ]
+    },
+    "kulsharif": {
+      "name": "Kul Sharif Mosque",
+      "address": "Kazan Kremlin",
+      "intro": "A mosque with distinctive blue domes on the Kremlin grounds.",
+      "history": "The present-day Kul Sharif Mosque was built within the Kazan Kremlin between 1996 and 2005. It is named after Imam Kul Sharif, whose life is connected with the Kazan Khanate and the events of 1552.\n\nIts blue domes and tall minarets can be seen from different parts of the Kremlin. The Museum of Islamic Culture is in the lower part of the building; check visiting and dress requirements before entering this working mosque.",
+      "facts": [
+        "The design for the present-day mosque was selected in a republic-wide architectural competition.",
+        "The building stands in the western part of the Kremlin and forms an ensemble with its own square.",
+        "The interior can accommodate approximately 1,500 people."
+      ]
+    },
+    "suyumbike": {
+      "name": "Soyembika Tower",
+      "address": "Kazan Kremlin",
+      "intro": "A leaning, tiered tower that is one of Kazan's symbols.",
+      "history": "The tiered Soyembika Tower stands in the northern part of the Kazan Kremlin. It leans noticeably from the vertical, earning it a place among the world's leaning towers.\n\nIts name is associated with the ruler Soyembika, and several legends surround the tower. Scholars still debate when it was built and what it was originally used for, so the stories are best understood as part of the city's folklore.",
+      "facts": [
+        "The tower has seven tiers: the lower three are square, while the upper four are octagonal.",
+        "Its brick walls stand on a foundation supported by oak piles.",
+        "A passage through the lowest tier leads into the courtyard."
+      ]
+    },
+    "annunciation": {
+      "name": "Annunciation Cathedral",
+      "address": "Kazan Kremlin",
+      "intro": "An ancient cathedral and an important part of the Kazan Kremlin complex.",
+      "history": "The Annunciation Cathedral is one of Kazan's oldest surviving monuments. The stone building dates from the 16th century and has endured fires, rebuilding and restoration over the centuries.\n\nThe cathedral stands within the Kremlin, not far from the Soyembika Tower. Nearby, you can study its architectural details and walk to a viewpoint overlooking the Kazanka; check visiting arrangements in advance.",
+      "facts": [
+        "A wooden church stood here before the stone cathedral was built.",
+        "Craftsmen from Pskov came to build the stone church in the 16th century.",
+        "The ornament at the base of the central dome retains features of the Pskov school of architecture."
+      ]
+    },
+    "palace": {
+      "name": "Palace of Farmers",
+      "address": "Dvortsovaya Square",
+      "intro": "A building with a decorative tree on its facade at the foot of the Kremlin.",
+      "history": "The Palace of Farmers appeared at the foot of the Kremlin hill in 2010. A large metal tree fills its central arch and is the facade's most recognisable feature.\n\nThe building faces Dvortsovaya Square, near a riverside walking area along the Kazanka. It can be viewed from the square or included in a walk between the Kremlin and the embankment.",
+      "facts": [
+        "Behind its grand facade is Tatarstan's Ministry of Agriculture and Food.",
+        "The tree in the central arch is about 20 metres high.",
+        "The palace's name appears on the facade in both Russian and Tatar."
+      ]
+    },
+    "embankment": {
+      "name": "Kremlin Embankment",
+      "address": "Kazanka River embankment",
+      "intro": "A riverside promenade with views of the Kazanka.",
+      "history": "The Kremlin Embankment follows the Kazanka River beside the historic centre. It links the area below the Kremlin hill with more recent development along the river.\n\nWalk beside the water for a different view of the Kremlin. Facilities and activities change with the season, but the waterfront is a pleasant place for a stroll throughout the year.",
+      "facts": [
+        "The promenade runs for roughly 1.5 kilometres, from the Kremlin walls to the National Library.",
+        "It has walking paths and a lane for cyclists and roller skaters.",
+        "In winter, part of the area becomes a seasonal ice-skating venue."
+      ]
+    },
+    "jalilmonument": {
+      "name": "Monument to Musa Jalil",
+      "address": "1 Maya Square",
+      "intro": "A monument to the poet beside the walls of the Kazan Kremlin.",
+      "history": "This monument to the Tatar poet Musa Jalil was installed in 1966 on 1 Maya Square beside the Kazan Kremlin. Jalil took part in the anti-fascist underground and died in a Nazi prison in 1944.\n\nThe monument is close to the Spasskaya Tower and the National Museum. It connects a walk around the fortress with the story of a figure important to Tatarstan's culture.",
+      "facts": [
+        "The memorial includes more than the poet's figure: it also has a granite platform and a memorial wall.",
+        "The complex was created by sculptor Vladimir Tsigal and architect Leonid Golubovsky.",
+        "The figure depicts the poet breaking through strands of barbed wire."
+      ]
+    },
+    "nationalmuseum": {
+      "name": "National Museum of Tatarstan",
+      "address": "2 Kremlyovskaya Street",
+      "intro": "The republic's main museum, close to the Kremlin.",
+      "history": "The National Museum of Tatarstan traces its history to Kazan's city museum of science and industry, founded in the late 19th century. Its collections tell stories of the region's natural history, archaeology and culture.\n\nThe main building is on Kremlyovskaya Street, close to the Spasskaya Tower. Some collections are displayed in permanent and temporary exhibitions; consult the museum for current opening hours.",
+      "facts": [
+        "The museum occupies the historic former Gostiny Dvor trading complex opposite the Kremlin.",
+        "A collection assembled by Kazan collector Andrei Likhachyov helped form the museum's early holdings.",
+        "Exhibits from a major 1890 exhibition helped inspire the creation of a public museum in Kazan."
+      ]
+    },
+    "peterpaul": {
+      "name": "Peter and Paul Cathedral",
+      "address": "21 Musa Jalil Street",
+      "intro": "A colourful cathedral with richly decorated facades.",
+      "history": "The stone Peter and Paul Cathedral was built in 1722–1726 with funds from the merchant Ivan Mikhlyayev. It is one of Kazan's most striking examples of Russian Baroque architecture.\n\nLook for the colourful facade details and the cathedral's tall silhouette. It stands near Bauman and Kremlyovskaya streets, making it a convenient stop on a walk through the old centre.",
+      "facts": [
+        "Construction of the stone cathedral is linked to Peter the Great's visit to Kazan in 1722.",
+        "The nearby street was once named after the cathedral; today it bears the name of Musa Jalil.",
+        "The singer Fyodor Chaliapin sang in the cathedral choir as a young man."
+      ]
+    },
+    "blacklake": {
+      "name": "Black Lake Park",
+      "address": "Between Chernyshevsky and Dzerzhinsky streets",
+      "intro": "A small city park in the historic centre.",
+      "history": "Black Lake Park is a historic place of recreation in central Kazan. Its name recalls a lake that once occupied the site; the area has served as a city garden since the 19th century.\n\nThe park has walking paths and a famous arch with unusual acoustics: people at opposite ends can hear one another. It is a convenient stop between the Kremlin, the university and Freedom Square.",
+      "facts": [
+        "The name comes from the old lake, which was filled in by the end of the 19th century.",
+        "In the late 19th century, music played in the garden and a skating rink was set up in winter.",
+        "The main entrance to the eastern part of the park passes through the famous Lovers' Arch."
+      ]
+    },
+    "ushkova": {
+      "name": "Ushkova House",
+      "address": "33 Kremlyovskaya Street",
+      "intro": "A mansion with an expressive facade on Kremlyovskaya Street.",
+      "history": "The mansion on Kremlyovskaya Street is known as Ushkova House. Its architecture and historic interiors draw attention for their mix of early-20th-century decorative styles.\n\nFor many years the building housed Tatarstan's National Library. Access to the interior may now be limited, so check the building's status and any guided tours before visiting.",
+      "facts": [
+        "Look for the round bay window topped by a small dome at the corner of the mansion.",
+        "The facade's decorative plasterwork includes eagles and dragons.",
+        "The lower floor was originally intended for shops, while the formal living rooms were upstairs."
+      ]
+    },
+    "university": {
+      "name": "Kazan University",
+      "address": "18 Kremlyovskaya Street",
+      "intro": "A historic university complex in the city centre.",
+      "history": "Kazan University was founded in 1804 and is among Russia's oldest universities. The historic complex on Kremlyovskaya Street is linked to the development of science and education in the Volga region.\n\nThe columned main building shapes the university quarter. If you plan to visit museums or go inside, check in advance whether they are open to visitors.",
+      "facts": [
+        "Mathematician Nikolai Lobachevsky worked on non-Euclidean geometry here and led the university for nearly twenty years.",
+        "In 1844, Kazan chemist Karl Klaus discovered the element ruthenium and named it after Russia.",
+        "The writer Leo Tolstoy was among the university's former students."
+      ]
+    },
+    "baumana": {
+      "name": "Bauman Street",
+      "address": "Bauman pedestrian street",
+      "intro": "A pedestrian street lined with historic buildings and public sculptures.",
+      "history": "Bauman Street is one of Kazan's main pedestrian streets. It runs through the historic centre, linking the Kremlin area with Tukay Square.\n\nAlong the way are old buildings, sculptures, fountains and the bell tower of the Epiphany Cathedral. The street is long, so the pin in the app is a landmark rather than its only entrance.",
+      "facts": [
+        "At different times the street was called Nogai Road and Bolshaya Prolomnaya Street.",
+        "It was named after the revolutionary Nikolai Bauman in 1930.",
+        "Trolleybuses once ran along the street; it became pedestrianised in the 1990s."
+      ]
+    },
+    "epiphany": {
+      "name": "Epiphany Cathedral",
+      "address": "78 Bauman Street",
+      "intro": "A cathedral and its tall bell tower on Bauman Street.",
+      "history": "The Epiphany Cathedral and the bell tower beside it form a distinctive ensemble on Bauman Street. The tall brick bell tower stands out among the surrounding buildings.\n\nThe complex is connected with old Kazan and the singer Fyodor Chaliapin. Its architecture can be viewed from the street; check separately whether the church and tower are open to visitors.",
+      "facts": [
+        "A wooden church stood on this site as early as the 17th century.",
+        "The nearby Epiphany settlement was named after the church.",
+        "The stone church and its famous brick bell tower were built in different periods."
+      ]
+    },
+    "freedom": {
+      "name": "Freedom Square",
+      "address": "Freedom Square",
+      "intro": "A city square surrounded by theatres and public buildings.",
+      "history": "Freedom Square is one of Kazan's central squares. Public and cultural buildings surround it, including the Musa Jalil Opera and Ballet Theatre.\n\nThe square fits naturally into a walk between Black Lake Park, the theatre and the old streets of the centre. It shows how historic buildings and later additions shape the city together.",
+      "facts": [
+        "The square was once called Theatre Square; it received its current name in 1924.",
+        "The city's main theatre once stood on the site of the present square.",
+        "Derzhavin Garden formerly occupied the site of the present opera house."
+      ]
+    },
+    "opera": {
+      "name": "Opera and Ballet Theatre",
+      "address": "2 Freedom Square",
+      "intro": "The Musa Jalil Tatar Opera and Ballet Theatre.",
+      "history": "The Tatar Opera and Ballet Theatre bears the name of the poet Musa Jalil and stands beside Freedom Square. It is one of Kazan's principal music venues.\n\nEven without a ticket, you can admire the building while walking across the square. If you would like to see a performance, check the theatre's programme and visiting information in advance.",
+      "facts": [
+        "Kazan's regular opera seasons trace their history to 1874.",
+        "The theatre hosts the Fyodor Chaliapin Opera Festival, first held in 1982.",
+        "It also hosts the Rudolf Nureyev Classical Ballet Festival."
+      ]
+    },
+    "library": {
+      "name": "National Library of Tatarstan",
+      "address": "86 Pushkin Street",
+      "intro": "A modern library and public space by the Kazanka River.",
+      "history": "The National Library of Tatarstan holds books, manuscripts and material about the republic's culture. In 2020 it moved to the former National Cultural Centre beside the Kazanka.\n\nThe modern library also functions as a public space. From here it is easy to continue towards Freedom Square or the embankment; entry and event arrangements may change.",
+      "facts": [
+        "Kazan's public library opened in 1865.",
+        "Its first collection came from the books of Ivan Vtorov, a bibliophile whose son donated them to the city.",
+        "The library holds publications in Tatar and many other languages."
+      ]
+    },
+    "oldsloboda": {
+      "name": "Old Tatar Settlement",
+      "address": "Gabdulla Tukay Street area",
+      "intro": "A historic neighbourhood of mosques, mansions and Tatar houses.",
+      "history": "The Old Tatar Settlement is a historic district between Lower Kaban Lake and the Bulak channel. Kazan's Tatar urban community took shape here, and merchants, educators and artisans worked in the area.\n\nIts streets preserve mosques, estates and houses associated with Tatar culture. Take your time: the neighbourhood is large, and the map pin marks only one of its landmarks.",
+      "facts": [
+        "In Tatar the historic district is called Iske Bistä, meaning Old Settlement.",
+        "Gabdulla Tukay Street is one of the neighbourhood's main thoroughfares.",
+        "Historically its northern part was commercial, the centre residential and cultural, and the southern part industrial."
+      ]
+    },
+    "marjani": {
+      "name": "Al-Marjani Mosque",
+      "address": "17 Kayum Nasyri Street",
+      "intro": "A historic mosque in the Old Tatar Settlement.",
+      "history": "Al-Marjani Mosque was built in the second half of the 18th century and became an important centre of religious life in the Old Tatar Settlement. Its architecture combines Baroque forms with Tatar decorative motifs.\n\nThe mosque stands near Kaban Lake and historic estates. Before visiting this working mosque, check access times and the rules for guests.",
+      "facts": [
+        "Donations from 62 parishioners helped fund construction in the 18th century.",
+        "It was formerly known as Yunusovskaya Mosque, after a merchant family that supported it.",
+        "Its present name honours the scholar and imam Shigabutdin Marjani."
+      ]
+    },
+    "nurulla": {
+      "name": "Nurulla Mosque",
+      "address": "74 Moskovskaya Street",
+      "intro": "A historic mosque near the Old Tatar Settlement.",
+      "history": "Nurulla Mosque, also known as the Hay Market Mosque, was built in the mid-19th century beside the former Hay Market. Its history is linked to Tatar merchants and the Yunusov family.\n\nDuring the Soviet period the building served other purposes; the mosque was later restored. It stands at the corner of Moskovskaya and Parizhskoy Kommuny streets, close to routes through the old district.",
+      "facts": [
+        "Its Hay Market name recalls the market that once stood here.",
+        "Unlike several older mosques in the district, its minaret stands at the end of the building rather than on the roof.",
+        "The dismantled minaret was rebuilt during restoration in the 20th century."
+      ]
+    },
+    "circus": {
+      "name": "Kazan Circus",
+      "address": "2 Millennium Square",
+      "intro": "An unusual circular building near the Kremlin.",
+      "history": "Kazan Circus stands near Millennium Square and the Kremlin. Its circular building, strikingly modern for its time, opened in the 1960s.\n\nThe unusual silhouette resembles a flying saucer and is easily seen from the Kremlin walls. Check the performance schedule and box-office hours before visiting.",
+      "facts": [
+        "The Nikitin brothers built Kazan's first circus building near Black Lake in 1890.",
+        "The round auditorium in the present building was designed without interior columns.",
+        "Architects, engineers and Kazan mechanics researchers worked on its unusual structure."
+      ]
+    },
+    "kamalold": {
+      "name": "Former Kamal Theatre Building",
+      "address": "1 Tatarstan Street",
+      "intro": "A distinctive building beside Lower Kaban Lake.",
+      "history": "The building on Tatarstan Street was home to the Galiaskar Kamal Tatar Theatre for many years. Its expressive roof became part of the skyline beside Lower Kaban Lake.\n\nThe theatre has moved to a new building on the other side of the lake. This pin marks the former building, a memorable part of the city's theatrical and architectural history.",
+      "facts": [
+        "The theatre considers 22 December 1906, the date of the first public performance in Tatar, its founding day.",
+        "One of the first professional Tatar companies was Sayyar, meaning a travelling troupe.",
+        "The theatre was named after playwright Galiaskar Kamal in 1939."
+      ]
+    },
+    "bogorod": {
+      "name": "Kazan Mother of God Monastery",
+      "address": "5 Bolshaya Krasnaya Street",
+      "intro": "A monastery connected with the story of the Kazan Icon of the Mother of God.",
+      "history": "The Kazan Mother of God Monastery is associated with the discovery of the Kazan Icon of the Mother of God in 1579. The complex was rebuilt over the centuries and remained an important religious site.\n\nThe monastery is on Bolshaya Krasnaya Street, near the Kremlin. Its cathedral was rebuilt on the site of the lost historic church; check the rules for visiting the grounds before you go.",
+      "facts": [
+        "The monastery was founded as a convent in 1579.",
+        "According to church tradition, a girl named Matrona saw the place where the icon was found in a dream.",
+        "Patriarch Hermogenes recorded an account of the icon's discovery."
+      ]
+    },
+    "ioann": {
+      "name": "St John the Baptist Monastery",
+      "address": "1/2 Bauman Street",
+      "intro": "A monastic complex opposite the Kremlin's Spasskaya Tower.",
+      "history": "St John the Baptist Monastery is in the historic centre opposite the Spasskaya Tower. Its history begins in the 16th century and is connected with a monastery dependency from Sviyazhsk.\n\nThe complex is easy to view on the way from Bauman Street to the Kremlin. It remains an active religious site, so access to interiors depends on the monastery's schedule and rules.",
+      "facts": [
+        "Before the revolution, the square in front of the monastery was named Ivanovskaya after it.",
+        "Its buildings were originally wooden; after a 17th-century fire they were rebuilt in stone.",
+        "A three-roofed monastery cathedral once stood opposite the Spasskaya Tower; it was lost in the 20th century."
+      ]
+    },
+    "apana": {
+      "name": "Apanayev Mosque",
+      "address": "27 Kayum Nasyri Street",
+      "intro": "An old mosque in the Old Tatar Settlement.",
+      "history": "Apanayev Mosque is one of the historic places of worship in the Old Tatar Settlement. It appeared in the second half of the 18th century and is linked to the rise of Tatar merchants.\n\nIts architecture combines traditions from different periods. The mosque stands on Kayum Nasyri Street near other landmarks of the historic district.",
+      "facts": [
+        "The mosque was also known as the Bay Mosque and the Cave Mosque; the latter name may refer to the local terrain.",
+        "The building housed a kindergarten during the Soviet period.",
+        "Restoration in 2007–2011 rebuilt the minaret and restored the historic two-storey interior."
+      ]
+    },
+    "burnay": {
+      "name": "Burnay Mosque",
+      "address": "7 Akhtyamov Street",
+      "intro": "A brick mosque with a tall minaret in a historic neighbourhood.",
+      "history": "Burnay Mosque was built in the second half of the 19th century with funds from the merchant Mukhametsadyk Burnayev. Its brick building and tall minaret stand out in the old district.\n\nThe mosque is on Akhtyamov Street, south of the busier part of the neighbourhood. When visiting this working mosque, observe the current rules and prayer times.",
+      "facts": [
+        "Burnay Mosque is also known as the Third Congregational Mosque.",
+        "The brick building was designed by architect Pyotr Romanov.",
+        "The facades feature motifs from both Tatar and Russian architecture."
+      ]
+    },
+    "blue": {
+      "name": "Blue Mosque",
+      "address": "19/8 Fatykh Karim Street",
+      "intro": "An early-19th-century mosque in the Old Tatar Settlement.",
+      "history": "The Blue Mosque is a historic mosque in the Old Tatar Settlement, built in the early 19th century. Its name refers to the colour of its facades.\n\nThe building stands at the intersection of Fatykh Karim and Sara Sadykova streets, among old mosques and houses. It is a surviving part of the district's historic streetscape.",
+      "facts": [
+        "Before the stone building, the community had a wooden mosque that was later moved to the village of Suyksu.",
+        "The architect of the historic stone building is unknown.",
+        "The minaret, dismantled during the Soviet period, was restored in 2009."
+      ]
+    },
+    "galeev": {
+      "name": "Galeev Mosque",
+      "address": "40/22 Gabdulla Tukay Street",
+      "intro": "A historic mosque associated with Kazan's Tatar merchant community.",
+      "history": "Galeev Mosque is connected with the lives of Kazan's Tatar community and merchant families. Its present architectural appearance developed through several phases of building and alteration.\n\nLook for its minaret and decorative facade details. The mosque stands on Gabdulla Tukay Street and can be a stop on a walk through the Old Tatar Settlement.",
+      "facts": [
+        "It is also known as the Fifth Congregational Mosque and the Barudi Mosque.",
+        "The educator Galimdzhan Barudi, founder of the Muhammadiya madrasa, was associated with its congregation.",
+        "During the Soviet period the building housed a hotel and municipal services."
+      ]
+    },
+    "azim": {
+      "name": "Azimov Mosque",
+      "address": "15 Fatkullin Street",
+      "intro": "A mosque with a slender minaret in the old part of Kazan.",
+      "history": "Azimov Mosque was built in the late 19th century and named after the Azimov merchant family. Its appearance is distinguished by a tall minaret and rich decorative patterns.\n\nThe mosque stands in the southern part of the historic Tatar settlement. It is an active place of worship, so check guest access and opening times before visiting.",
+      "facts": [
+        "An earlier wooden mosque appeared on this site in the early 19th century.",
+        "It was also called the Factory Mosque because many worshippers were soap-factory workers.",
+        "A madrasa building and a wooden mullah's house stand on the grounds nearby."
+      ]
+    },
+    "sultan": {
+      "name": "Sultanov Mosque",
+      "address": "14 Gabdulla Tukay Street",
+      "intro": "A 19th-century mosque with distinctive brick architecture.",
+      "history": "Sultanov Mosque dates from the 19th century and is part of historic Tatar Kazan. Its building is linked to the merchant community of the old district.\n\nThe mosque stands on Gabdulla Tukay Street, near other landmarks of the settlement. Compare its silhouette and decoration with those of neighbouring mosques from different periods.",
+      "facts": [
+        "The mosque has had several names, including Usmanov and Red Mosque.",
+        "The scholar Shigabutdin Marjani led the first prayer in the new mosque.",
+        "The minaret was restored in 1990, and the building was returned to worshippers a few years later."
+      ]
+    },
+    "zakabannaya": {
+      "name": "Zakabannaya Mosque",
+      "address": "26 Hadi Taktash Street",
+      "intro": "A 20th-century mosque by Kaban Lake.",
+      "history": "Zakabannaya Mosque stands east of Kaban Lake. Its 20th-century history is connected with the anniversary of the adoption of Islam by Volga Bulgaria.\n\nIts name refers to its location across the lake. It makes a separate stop on a walk along the eastern shore, but check interior access in advance.",
+      "facts": [
+        "It is also called the Mosque of the 1,000th Anniversary of the Adoption of Islam.",
+        "Architect Nikolai Pechnikov prepared the design before the First World War.",
+        "After the mosque closed during the Soviet period, the building was used as a school and a kindergarten, among other purposes."
+      ]
+    },
+    "alexpassage": {
+      "name": "Alexandrovsky Passage",
+      "address": "17 Kremlyovskaya Street",
+      "intro": "A historic commercial building with a richly decorated facade.",
+      "history": "Alexandrovsky Passage is a historic commercial building on Kremlyovskaya Street. Built in the late 19th century, its richly decorated facade makes it one of the centre's most recognisable buildings.\n\nLook at its windows, decorative details and complex silhouette. The building's condition and interior access may change, so plan to view it from the street.",
+      "facts": [
+        "The passage was commissioned by merchant Alexander Alexandrov in the 1880s.",
+        "Two sculpted caryatids can be seen above the main entrance.",
+        "The owner's sister gave the building to the city for a museum, but it was later used for shops and furnished rooms."
+      ]
+    },
+    "zoo": {
+      "name": "Kazan Zoological and Botanical Garden",
+      "address": "112 Hadi Taktash Street",
+      "intro": "A historic zoo and botanical garden near Kaban Lake.",
+      "history": "The Kazan Zoological and Botanical Garden traces its history to a university botanical garden from the early 19th century. Over time, it grew into a complex with collections of plants and animals.\n\nThe garden is in the Hadi Taktash Street area, south of Lower Kaban Lake. Check the schedule, current entrances and ticket prices before visiting.",
+      "facts": [
+        "The university botanical garden was founded by Karl Fuchs in 1806.",
+        "Land on the shore of Kaban Lake was purchased for the botanical garden in 1829.",
+        "The botanical garden and the zoo were joined into a single institution in 1931."
+      ]
+    },
+    "station": {
+      "name": "Kazan Railway Station",
+      "address": "1A Privokzalnaya Square",
+      "intro": "A railway station complex with a distinctive red-brick historic building.",
+      "history": "Kazan's main railway station is an important meeting point for travellers. Its historic red-brick building stands apart from the later structures in the station complex.\n\nThe station is on Privokzalnaya Square, west of the centre. Include it in a walk from Bauman Street to see the city's transport architecture alongside its museums and places of worship.",
+      "facts": [
+        "The railway reached Kazan in 1893.",
+        "After a serious fire in 1992, the main building was restored by 1997.",
+        "A railway line to Kazan Airport starts at this station."
+      ]
+    },
+    "temple": {
+      "name": "Temple of All Religions",
+      "address": "Staroye Arakchino neighbourhood",
+      "intro": "An unusual architectural and cultural complex on the Volga.",
+      "history": "The Temple of All Religions, also called the Universal Temple, is an architectural project by artist Ildar Khanov in Staroye Arakchino. The complex was conceived as a cultural symbol of unity among religions and traditions.\n\nIt stands considerably farther from the centre, on the Volga. It is not a conventional active place for joint worship; check access and transport before travelling.",
+      "facts": [
+        "Artist and sculptor Ildar Khanov began creating the project.",
+        "After his death, his brother and sister continued work on the complex.",
+        "The combination of architectural symbols was intended to represent spiritual unity."
+      ]
+    },
+    "kremlstreet": {
+      "name": "Kremlyovskaya Street",
+      "address": "Kremlyovskaya Street",
+      "intro": "A historic street running from the Kremlin towards the university.",
+      "history": "Kremlyovskaya Street links the Kremlin area with the university quarter. Buildings from different periods survive along it, including Alexandrovsky Passage and Ushkova House.\n\nIt is a useful backbone for a walk through the historic centre. The street is long, so the coordinate in the app marks just one landmark along it.",
+      "facts": [
+        "The street was formerly known as Spasskaya, Voskresenskaya and Lenin Street.",
+        "Its current name was adopted in 1996.",
+        "It follows the crest of a hill and ends at the university quarter."
+      ]
+    },
+    "parkpobedy": {
+      "name": "Victory Park",
+      "address": "Yamashev Avenue",
+      "intro": "A large park and memorial space in the north of the city.",
+      "history": "Victory Park is a large city park with a memorial to the Great Patriotic War of 1941–1945. It lies in northern Kazan, outside the compact, walkable centre.\n\nThere are walking paths and open spaces. Allow for the distance when planning: the park is best visited separately from a short walk around the Kremlin.",
+      "facts": [
+        "Work on the park began in the 1970s on marshy land.",
+        "A 42-metre Victory Stele rises near the Yamashev Avenue entrance.",
+        "The park includes an outdoor display of military equipment from different periods."
+      ]
+    },
+    "parkgorky": {
+      "name": "Gorky Park",
+      "address": "7A Nikolay Ershov Street",
+      "intro": "A green park with avenues and walking paths.",
+      "history": "Gorky Park is one of Kazan's well-known green spaces. Public recreation in this area has a history reaching back to the 19th century.\n\nWalk along its avenues and pause away from the dense buildings of the centre. It lies east of Freedom Square; choose an entrance that fits your route.",
+      "facts": [
+        "Its hilly landscape earned the area the nickname Russian Switzerland in the 19th century.",
+        "During the Soviet period a cable car led from the park to a beach on the Kazanka.",
+        "A light-and-music fountain was added during the park's improvement."
+      ]
+    },
+    "shamil": {
+      "name": "Shamil House",
+      "address": "74 Gabdulla Tukay Street",
+      "intro": "An Old Tatar Settlement mansion housing the Gabdulla Tukay Museum.",
+      "history": "Shamil House is a historic mansion in the Old Tatar Settlement associated with the families of merchant Ibrahim Apakov and Imam Shamil. It houses a literary museum dedicated to the poet Gabdulla Tukay.\n\nThe mansion is recognisable by its expressive facade and decorative turrets. Check opening hours and entry arrangements in advance if you want to visit the museum.",
+      "facts": [
+        "The house is connected with the family of Muhammad-Shafi, a son of Imam Shamil.",
+        "Its decoration combines European medieval motifs with local tastes.",
+        "The Gabdulla Tukay Literary Museum opened in the mansion in 1986."
+      ]
+    },
+    "millennium": {
+      "name": "Millennium Park",
+      "address": "Ostrovsky Street",
+      "intro": "A city park near Lower Kaban Lake.",
+      "history": "Millennium Park is near Lower Kaban Lake. It opened for the celebration of Kazan's millennium, and its central area is arranged around a decorative fountain.\n\nThe park combines easily with a walk along the Kaban embankment and nearby streets. As with other parks, the coordinate is a landmark; choose a convenient entrance on the map.",
+      "facts": [
+        "The park's avenues converge on a circular fountain shaped like a large kazan, or cauldron.",
+        "Figures of zilants, mythical symbols of Kazan, decorate the gates and fountain area.",
+        "A monument in the park honours the medieval Bulgar poet Kul Gali."
+      ]
+    },
+    "lyadsky": {
+      "name": "Lyadskoy Garden",
+      "address": "37 Shchapov Street",
+      "intro": "A small historic garden in central Kazan.",
+      "history": "Lyadskoy Garden is an old city garden on Shchapov Street. Its history is linked to the estates that once stood in this part of Kazan.\n\nThe garden contains a monument to poet Gavriil Derzhavin, recreated in the early 21st century. This small green space is a good stop on the way to the Museum of Fine Arts or Gorky Park.",
+      "facts": [
+        "The garden's original name came from Major General Letskoy; in everyday speech it became Lyadskoy.",
+        "An old fountain with a figure of a girl commemorated the opening of Kazan's first water supply system.",
+        "The Derzhavin monument at the entrance is a copy of a lost 19th-century Kazan monument."
+      ]
+    },
+    "ekiyat": {
+      "name": "Ekiyat Puppet Theatre",
+      "address": "57 Peterburgskaya Street",
+      "intro": "A puppet theatre in a building resembling a fairy-tale castle.",
+      "history": "The Tatar State Puppet Theatre Ekiyat has operated since the 1930s. Its modern building on Peterburgskaya Street is easy to recognise by its turrets and fairy-tale details.\n\nEkiyat means 'fairy tale' in Tatar. The building is fun to view on a family walk; check the programme in advance if you would like to see a performance.",
+      "facts": [
+        "The theatre opened in 1934 as an international puppet theatre.",
+        "From its early years, performances were staged in two languages.",
+        "In 1937 the theatre staged Gabdulla Tukay's tale The Goat and the Ram."
+      ]
+    },
+    "centerfamily": {
+      "name": "Kazan Family Centre",
+      "address": "4 Sibgat Khakim Street",
+      "intro": "A wedding palace shaped like a large kazan, or cauldron.",
+      "history": "The Kazan Family Centre is a wedding palace on the bank of the Kazanka River. Its shape resembles a large kazan, a traditional cauldron and one of the city's familiar symbols.\n\nIt stands across the river from the Kremlin. Its observation deck offers a city panorama, but check opening times and access before travelling.",
+      "facts": [
+        "The unusual building was designed by sculptor and architect Dashi Namdakov.",
+        "The observation deck is about 32 metres above the river.",
+        "Nearby sculptures depict zilants and snow leopards with their young."
+      ]
+    },
+    "spaso": {
+      "name": "Transfiguration Monastery",
+      "address": "Kazan Kremlin grounds",
+      "intro": "A historic monastery complex within the Kazan Kremlin.",
+      "history": "The Transfiguration Monastery was founded within the Kazan Kremlin in the 16th century. The complex changed over its long history, and some of its buildings have not survived.\n\nIts historic grounds remain inside the Kremlin. On a walk you can see surviving and restored parts of the complex, subject to the museum site's visiting rules.",
+      "facts": [
+        "The monastery was founded by Archimandrite Varsonofy.",
+        "It occupied a small area in the south-western Kremlin beside the fortress walls.",
+        "One of its early buildings was the Church of St Nicholas Ratny."
+      ]
+    },
+    "spasskaya": {
+      "name": "Spasskaya Tower",
+      "address": "1 Maya Square, Kazan Kremlin",
+      "intro": "The main gateway tower of the Kazan Kremlin.",
+      "history": "The Spasskaya Tower is the Kazan Kremlin's main gateway tower. Its lower white-stone section dates to construction of the fortress in the 16th century; the upper tiers were added later.\n\nThe tower faces 1 Maya Square and provides a recognisable entrance to the Kremlin. The Monument to Musa Jalil and the National Museum of Tatarstan are nearby.",
+      "facts": [
+        "The tower is named after an icon of the Saviour Not Made by Hands that stood above its gate.",
+        "Pskov craftsmen Ivan Shiryay and Postnik Yakovlev helped build the white-stone tower.",
+        "A museum in the tower tells the story of the Kremlin's fortifications."
+      ]
+    },
+    "chakchak": {
+      "name": "Chak-Chak Museum",
+      "address": "18 Parizhskoy Kommuny Street",
+      "intro": "A museum of a Tatar sweet and traditions of hospitality.",
+      "history": "The Chak-Chak Museum introduces the history of the Tatar sweet and traditions of hospitality. It is housed in a historic building on Parizhskoy Kommuny Street.\n\nThe exhibition covers not only the sweet but also everyday life in a Tatar merchant's home. Tours and tea sessions may require booking, so check visiting arrangements in advance.",
+      "facts": [
+        "The museum opened as a private initiative in 2014.",
+        "Its Tatar home interior was recreated using old photographs and surviving everyday objects.",
+        "The museum also introduces other traditional treats, including baursak."
+      ]
+    },
+    "hermitage": {
+      "name": "Hermitage Garden",
+      "address": "Kochetov Lane",
+      "intro": "A quiet historic garden near the city centre.",
+      "history": "Hermitage Garden is a historic green space in central Kazan. Its story is linked to the city's cultural life and the tradition of public gardens around the turn of the 20th century.\n\nSmall paths and trees make the garden a calm stop during a city walk. It lies away from the Kremlin, close to the old streets of the central districts.",
+      "facts": [
+        "At different times it was known as Alexandrovsky Garden, Iznoskovsky Garden and Nikolai's Garden.",
+        "It once had a summer theatre, an outdoor stage and a library.",
+        "Fyodor Chaliapin performed here, and circus shows were also held in the garden."
+      ]
+    },
+    "artmuseum": {
+      "name": "Museum of Fine Arts",
+      "address": "64 Karl Marx Street",
+      "intro": "An art museum in a mansion on Karl Marx Street.",
+      "history": "The State Museum of Fine Arts of Tatarstan was established in 1958 using the republic museum's art collection. Its holdings include painting, graphic art and other forms of art.\n\nThe main building occupies a historic mansion on Karl Marx Street. Check the museum's website for opening hours and tickets before visiting the permanent displays or temporary exhibitions.",
+      "facts": [
+        "The main exhibition is housed in the former residence of General Alexander Sandetsky.",
+        "The museum has other venues, including the Khazine Gallery in the Kazan Kremlin.",
+        "The museum complex includes the park around the mansion as well as the building itself."
+      ]
+    },
+    "kabanquay": {
+      "name": "Kaban Lake Embankment",
+      "address": "Shore of Lower Kaban Lake",
+      "intro": "Waterside paths and views beside the Old Tatar Settlement.",
+      "history": "The Lower Kaban embankment follows the lake beside the Old Tatar Settlement. After redevelopment, the shore became an accessible space for walking and relaxing by the water.\n\nThe route offers changing views of the lake, old neighbourhoods and newer public spaces. The shoreline is long: the app's pin marks one landmark, not the entire embankment.",
+      "facts": [
+        "An international architecture competition for the lakefront's development was held in 2015.",
+        "The winning concept was called Elastic Ribbon.",
+        "A waterside esplanade with an amphitheatre stands beside the former Kamal Theatre building."
+      ]
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "city_id": "demo_moscow",
+  "places": [
+    {
+      "id": "demo_moscow_msc_red_square",
+      "category": "История",
+      "lat": 55.754166666667,
+      "lon": 37.62,
+      "qid": "Q41116",
+      "source": "https://whc.unesco.org/en/list/545/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C",
+      "name": "Красная площадь",
+      "address": "Красная площадь, у стен Кремля",
+      "intro": "Историческая площадь в сердце Москвы между Кремлём и ГУМом.",
+      "history": "Красная площадь сложилась у стен Московского Кремля и на протяжении столетий была важным общественным пространством города. Её ансамбль вместе с Кремлём включён в список Всемирного наследия ЮНЕСКО.\n\nВо время прогулки можно увидеть зубчатые стены Кремля, Исторический музей, торговые ряды ГУМа и собор Василия Блаженного. Доступ на площадь и проходы могут меняться во время мероприятий.",
+      "facts": [
+        "Название площади исторически связано со значением слова «красный» как «красивый».",
+        "С южной стороны площади стоит собор Василия Блаженного.",
+        "Площадь и Кремль включены в список Всемирного наследия ЮНЕСКО в 1990 году."
+      ],
+      "photo": "remote/demo_moscow/msc_red_square-1.img",
+      "photo_title": "Kremlin and Red Square.1.jpg",
+      "photo_author": "Mos.ru",
+      "photo_license": "CC BY 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Kremlin_and_Red_Square.1.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by/4.0",
+      "gallery": [
+        {
+          "path": "remote/demo_moscow/msc_red_square-2.img",
+          "title": "Moskau-Roter Platz-16-Erloeserturm-Basilius-Kathedrale-2012-gje.jpg",
+          "author": "Gerd Eichmann",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Moskau-Roter_Platz-16-Erloeserturm-Basilius-Kathedrale-2012-gje.jpg"
+        },
+        {
+          "path": "remote/demo_moscow/msc_red_square-3.img",
+          "title": "Moskau-Roter Platz-22-Historisches Museum-2012-gje.jpg",
+          "author": "Gerd Eichmann",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Moskau-Roter_Platz-22-Historisches_Museum-2012-gje.jpg"
+        }
+      ]
+    },
+    {
+      "id": "demo_moscow_msc_st_basil",
+      "category": "Архитектура",
+      "lat": 55.7525,
+      "lon": 37.62305555555555,
+      "qid": "Q129846",
+      "source": "https://whc.unesco.org/en/list/545/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE",
+      "name": "Собор Василия Блаженного",
+      "address": "Красная площадь, южная сторона",
+      "intro": "Храм с разноцветными куполами на краю Красной площади.",
+      "history": "Покровский собор, известный как храм Василия Блаженного, был построен в XVI веке. Его узнаваемый силуэт образует группа церквей вокруг центрального столпа.\n\nСнаружи стоит рассмотреть узоры, купола и переходы между частями здания. Внутри действует музей; условия посещения и часы работы лучше проверить заранее.",
+      "facts": [
+        "Официальное название связано с праздником Покрова Пресвятой Богородицы.",
+        "Собор состоит из нескольких церквей, объединённых в один ансамбль.",
+        "Храм входит в охраняемый ЮНЕСКО ансамбль Кремля и Красной площади."
+      ],
+      "photo": "remote/demo_moscow/msc_st_basil-1.img",
+      "photo_title": "00 0568 Saint Basil's Cathedral - Moscow.jpg",
+      "photo_author": "W. Bulach",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/demo_moscow/msc_st_basil-2.img",
+          "title": "Saint Basil's Cathedral, Moscow - General view1.jpg",
+          "author": "Юрий Д.К.",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral,_Moscow_-_General_view1.jpg"
+        },
+        {
+          "path": "remote/demo_moscow/msc_st_basil-3.img",
+          "title": "Храм Василия Блаженного, Москва 10.06.2025.jpg",
+          "author": "SmallSonMarex",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%A5%D1%80%D0%B0%D0%BC_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_10.06.2025.jpg"
+        }
+      ]
+    },
+    {
+      "id": "demo_moscow_msc_zaryadye",
+      "category": "Прогулки",
+      "lat": 55.751,
+      "lon": 37.629,
+      "qid": "Q19908995",
+      "source": "https://www.zaryadyepark.ru/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D1%8C%D0%B5_(%D0%BF%D0%B0%D1%80%D0%BA)",
+      "name": "Парк «Зарядье»",
+      "address": "Улица Варварка, рядом с Красной площадью",
+      "intro": "Современный парк с видами на Москву-реку и Кремль.",
+      "history": "Парк «Зарядье» появился в исторической части Москвы недалеко от Красной площади. Его открыли в 2017 году на территории бывшей гостиницы «Россия».\n\nПешеходные дорожки проходят среди растений и павильонов. Со стороны Москвы-реки расположен Парящий мост - смотровая площадка, с которой хорошо видны набережная и центр города.",
+      "facts": [
+        "Парк открыт в 2017 году.",
+        "Парящий мост представляет собой смотровую площадку над набережной.",
+        "Ландшафты парка знакомят с разными природными зонами России."
+      ],
+      "photo": "remote/demo_moscow/msc_zaryadye-1.img",
+      "photo_title": "Парк Зарядье в Москве. Фото 18.jpg",
+      "photo_author": "Alina Vozna",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D1%80%D0%BA_%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D1%8C%D0%B5_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5._%D0%A4%D0%BE%D1%82%D0%BE_18.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/demo_moscow/msc_zaryadye-2.img",
+          "title": "Amphitheater at Zaryadye Park, Moscow.jpg",
+          "author": "Ashevchenkobz",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Amphitheater_at_Zaryadye_Park,_Moscow.jpg"
+        },
+        {
+          "path": "remote/demo_moscow/msc_zaryadye-3.img",
+          "title": "20190612 Tverskoy District 14.jpg",
+          "author": "Sergey A. Demidov",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:20190612_Tverskoy_District_14.jpg"
+        }
+      ]
+    },
+    {
+      "id": "demo_moscow_msc_alexander_garden",
+      "category": "Прогулки",
+      "lat": 55.752393,
+      "lon": 37.61385111,
+      "qid": "Q1472498",
+      "source": "https://www.moscowkremlin.ru/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)",
+      "name": "Александровский сад",
+      "address": "Вдоль западной стены Московского Кремля",
+      "intro": "Сад у кремлёвской стены с аллеями и памятниками.",
+      "history": "Александровский сад разбили в XIX веке вдоль западной стены Кремля. Он появился на месте, где прежде протекала река Неглинная, заключённая в подземный коллектор.\n\nЗдесь можно пройти по тенистым аллеям, увидеть кремлёвские башни и Могилу Неизвестного Солдата с Вечным огнём. Сад соединяет несколько прогулочных направлений в центре города.",
+      "facts": [
+        "Сад расположен вдоль западной стены Кремля.",
+        "Река Неглинная сейчас протекает под землёй.",
+        "У кремлёвской стены находится мемориал Могила Неизвестного Солдата."
+      ],
+      "photo": "remote/demo_moscow/msc_alexander_garden-1.img",
+      "photo_title": "Alexander Garden Gates.JPG",
+      "photo_author": "Минеева Ю. (Julmin)",
+      "photo_license": "CC BY-SA 1.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Alexander_Garden_Gates.JPG",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/1.0",
+      "gallery": [
+        {
+          "path": "remote/demo_moscow/msc_alexander_garden-2.img",
+          "title": "20160726 123757 July 2016 in Moscow.jpg",
+          "author": "Rakoon",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "url": "https://commons.wikimedia.org/wiki/File:20160726_123757_July_2016_in_Moscow.jpg"
+        },
+        {
+          "path": "remote/demo_moscow/msc_alexander_garden-3.img",
+          "title": "20160726 125214 July 2016 in Moscow.jpg",
+          "author": "Rakoon",
+          "license": "CC0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "url": "https://commons.wikimedia.org/wiki/File:20160726_125214_July_2016_in_Moscow.jpg"
+        }
+      ]
+    },
+    {
+      "id": "demo_moscow_msc_bolshoi",
+      "category": "Культура",
+      "lat": 55.76027777777778,
+      "lon": 37.618611111111115,
+      "qid": "Q138908",
+      "source": "https://bolshoi.ru/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80",
+      "name": "Большой театр",
+      "address": "Театральная площадь, 1",
+      "intro": "Знаменитый театр оперы и балета на Театральной площади.",
+      "history": "История Большого театра связана с развитием московской оперы и балета. Его историческое здание с колоннадой и скульптурой Аполлона стало одним из узнаваемых символов города.\n\nПлощадь перед театром подходит для короткой остановки во время прогулки по центру. Для посещения спектакля или экскурсии заранее уточняйте программу и наличие билетов.",
+      "facts": [
+        "На фронтоне исторического здания установлена квадрига Аполлона.",
+        "В театре идут оперные и балетные спектакли.",
+        "Перед главным фасадом находится Театральная площадь."
+      ],
+      "photo": "remote/demo_moscow/msc_bolshoi-1.img",
+      "photo_title": "Moscow - 2025 - Facade of Big Theatre (1).jpg",
+      "photo_author": "Юрий Д.К.",
+      "photo_license": "CC BY 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Moscow_-_2025_-_Facade_of_Big_Theatre_(1).jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by/4.0",
+      "gallery": [
+        {
+          "path": "remote/demo_moscow/msc_bolshoi-2.img",
+          "title": "Moscow-Bolshoi-Theare-1.jpg",
+          "author": "DmitriyGuryanov",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Moscow-Bolshoi-Theare-1.jpg"
+        },
+        {
+          "path": "remote/demo_moscow/msc_bolshoi-3.img",
+          "title": "Moscow - View of the Bolshoi Theatre from the Theatre Square3.jpg",
+          "author": "Юрий Д.К.",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Moscow_-_View_of_the_Bolshoi_Theatre_from_the_Theatre_Square3.jpg"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "demo_moscow_msc_red_square": {
+      "name": "Red Square",
+      "address": "Red Square, beside the Kremlin walls",
+      "intro": "A historic square in the heart of Moscow, between the Kremlin and GUM.",
+      "history": "Red Square developed beside the walls of the Moscow Kremlin and has served as an important public space for centuries. Together with the Kremlin, its ensemble is a UNESCO World Heritage site.\n\nA walk around the square reveals the Kremlin walls, the Historical Museum, GUM and St Basil’s Cathedral. Access and entrances may change during public events.",
+      "facts": [
+        "The historical Russian word behind the name could also mean “beautiful”.",
+        "St Basil’s Cathedral stands at the southern end of the square.",
+        "The square and the Kremlin were inscribed on the UNESCO World Heritage List in 1990."
+      ]
+    },
+    "demo_moscow_msc_st_basil": {
+      "name": "St Basil’s Cathedral",
+      "address": "Southern end of Red Square",
+      "intro": "A cathedral of colourful domes at the edge of Red Square.",
+      "history": "The Cathedral of the Intercession, better known as St Basil’s Cathedral, was built in the sixteenth century. A group of churches around a central tower gives it its distinctive silhouette.\n\nLook for the patterns on the domes and the passages connecting the different parts of the building. There is a museum inside; check opening and admission details before visiting.",
+      "facts": [
+        "Its formal name refers to the Feast of the Intercession.",
+        "Several churches are combined into a single architectural ensemble.",
+        "The cathedral forms part of the UNESCO-listed Kremlin and Red Square site."
+      ]
+    },
+    "demo_moscow_msc_zaryadye": {
+      "name": "Zaryadye Park",
+      "address": "Varvarka Street, near Red Square",
+      "intro": "A contemporary park overlooking the Moskva River and the Kremlin.",
+      "history": "Zaryadye Park opened in the historic centre of Moscow in 2017, on the former site of the Rossiya Hotel. Its paths connect landscaped areas and cultural spaces.\n\nFollow the paths between the planting and pavilions, then visit the floating bridge viewpoint above the embankment for views of the river and city centre.",
+      "facts": [
+        "The park opened in 2017.",
+        "The floating bridge is a viewing platform above the embankment.",
+        "The landscaping evokes different natural regions of Russia."
+      ]
+    },
+    "demo_moscow_msc_alexander_garden": {
+      "name": "Alexander Garden",
+      "address": "Along the western wall of the Moscow Kremlin",
+      "intro": "Tree-lined paths and memorials beside the Kremlin wall.",
+      "history": "Alexander Garden was laid out along the western Kremlin wall in the nineteenth century. It occupies ground associated with the Neglinnaya River, which was channelled underground.\n\nWalk the shaded paths past Kremlin towers and the Tomb of the Unknown Soldier with its eternal flame. The garden connects several walking routes in the city centre.",
+      "facts": [
+        "The garden follows the western Kremlin wall.",
+        "The Neglinnaya River now flows underground here.",
+        "The Tomb of the Unknown Soldier is beside the Kremlin wall."
+      ]
+    },
+    "demo_moscow_msc_bolshoi": {
+      "name": "Bolshoi Theatre",
+      "address": "1 Theatre Square",
+      "intro": "Moscow’s renowned opera and ballet theatre on Theatre Square.",
+      "history": "The Bolshoi Theatre is closely connected with the history of opera and ballet in Moscow. Its historic building, with a colonnade and a sculpture of Apollo, is a well-known city landmark.\n\nThe square in front of the theatre is a good stop on a walk through the centre. Check the programme and ticket availability before planning a performance or tour.",
+      "facts": [
+        "Apollo’s quadriga crowns the historic building.",
+        "The theatre stages both opera and ballet.",
+        "Theatre Square lies directly in front of the main facade."
+      ]
+    }
+  }
+}

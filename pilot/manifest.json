@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "cities": [
+    {
+      "id": "demo_moscow",
+      "name_ru": "Тест: Москва",
+      "name_en": "Test: Moscow",
+      "catalog": "cities/demo_moscow.json"
+    },
+    {
+      "id": "demo_petersburg",
+      "name_ru": "Тест: Санкт-Петербург",
+      "name_en": "Test: St Petersburg",
+      "catalog": "cities/demo_petersburg.json"
+    }
+  ]
+}

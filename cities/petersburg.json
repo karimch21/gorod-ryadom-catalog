@@ -1,0 +1,538 @@
+{
+  "schema_version": 1,
+  "city_id": "petersburg",
+  "places": [
+    {
+      "id": "spb_palace_square",
+      "category": "История",
+      "lat": 59.93902778,
+      "lon": 30.31577778,
+      "qid": "Q1132624",
+      "source": "https://whc.unesco.org/en/list/540/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D1%86%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C",
+      "name": "Дворцовая площадь",
+      "address": "Перед Зимним дворцом, центр Санкт-Петербурга",
+      "intro": "Главная площадь города с Александровской колонной и Зимним дворцом.",
+      "history": "Дворцовая площадь - один из центральных архитектурных ансамблей Санкт-Петербурга. Её обрамляют Зимний дворец и дуга здания Главного штаба с триумфальной аркой.\n\nВ центре площади поднимается Александровская колонна. Отсюда удобно продолжить прогулку к Неве, Адмиралтейству или Невскому проспекту; при мероприятиях проходы могут изменяться.",
+      "facts": [
+        "Александровская колонна установлена в центре площади.",
+        "Арка Главного штаба ведёт к Большой Морской улице.",
+        "Зимний дворец выходит на площадь с северной стороны."
+      ],
+      "photo": "remote/petersburg/spb_palace_square-1-1d4c719cc9dd4ffc.jpg",
+      "photo_title": "00 0048 Palace Square in Saint Petersburg (Russia).jpg",
+      "photo_author": "W. Bulach",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:00_0048_Palace_Square_in_Saint_Petersburg_(Russia).jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_palace_square-2-036eaf4749b3c15b.jpg",
+          "title": "DvortsovajaploštšadDSCN0606.JPG",
+          "author": "Paasikivi",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Dvortsovajaplo%C5%A1t%C5%A1adDSCN0606.JPG"
+        },
+        {
+          "path": "remote/petersburg/spb_palace_square-3-49cf249198eb4308.jpg",
+          "title": "Dvortsovaya Square (1).JPG",
+          "author": "Perfektangelll",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Dvortsovaya_Square_(1).JPG"
+        }
+      ]
+    },
+    {
+      "id": "spb_hermitage",
+      "category": "Культура",
+      "lat": 59.940555555555555,
+      "lon": 30.31361111111111,
+      "qid": "Q132783",
+      "source": "https://www.hermitagemuseum.org/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6",
+      "name": "Государственный Эрмитаж",
+      "address": "Дворцовая площадь, Зимний дворец",
+      "intro": "Музейный комплекс, главное здание которого выходит к Неве.",
+      "history": "Эрмитаж вырос из художественного собрания Екатерины II и стал одним из самых известных музеев страны. В его комплекс входит Зимний дворец, бывшая императорская резиденция.\n\nФасады дворца можно рассмотреть со стороны Дворцовой площади и Невы. Для посещения экспозиции заранее уточните вход, время работы и билеты: музей занимает несколько зданий.",
+      "facts": [
+        "История собрания Эрмитажа начинается в XVIII веке.",
+        "Зимний дворец входит в музейный комплекс.",
+        "Эрмитаж расположен в нескольких исторических зданиях."
+      ],
+      "photo": "remote/petersburg/spb_hermitage-1-66814922f81b50c5.jpg",
+      "photo_title": "Winter Palace Panorama 4.jpg",
+      "photo_author": "Alex 'Florstein' Fedorov",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Winter_Palace_Panorama_4.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_hermitage-2-857a3ad0bade7f49.jpg",
+          "title": "36839-StPetersburg-Hermitage - 27840222225.jpg",
+          "author": "xiquinhosilva",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:36839-StPetersburg-Hermitage_-_27840222225.jpg"
+        },
+        {
+          "path": "remote/petersburg/spb_hermitage-3-bc9fa4a7ca323e30.jpg",
+          "title": "36836-StPetersburg-Hermitage - 27562301110.jpg",
+          "author": "xiquinhosilva",
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:36836-StPetersburg-Hermitage_-_27562301110.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spb_st_isaac",
+      "category": "Архитектура",
+      "lat": 59.934047,
+      "lon": 30.30595,
+      "qid": "Q215423",
+      "source": "https://www.cathedral.ru/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%B0%D0%B0%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80",
+      "name": "Исаакиевский собор",
+      "address": "Исаакиевская площадь, 4",
+      "intro": "Монументальный собор с золотистым куполом и колоннадами.",
+      "history": "Нынешний Исаакиевский собор строился в XIX веке по проекту Огюста Монферрана. Его крупный купол заметен из многих точек исторического центра Петербурга.\n\nРассмотрите портики с гранитными колоннами и скульптурное убранство снаружи. В здании работает музей, а на колоннаде находится обзорная площадка; условия посещения нужно уточнять отдельно.",
+      "facts": [
+        "Автор проекта собора - архитектор Огюст Монферран.",
+        "Собор окружён портиками с колоннами.",
+        "С колоннады открываются виды на город."
+      ],
+      "photo": "remote/petersburg/spb_st_isaac-1-028ec4ce1e5f02ae.jpg",
+      "photo_title": "Saint Isaac's Cathedral in SPB.jpeg",
+      "photo_author": "Alex 'Florstein' Fedorov",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Saint_Isaac%27s_Cathedral_in_SPB.jpeg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_st_isaac-2-c26ee4456df8b016.jpg",
+          "title": "Главный купол Исаакиевского собора..jpg",
+          "author": "Юлия Пытько",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%BA%D1%83%D0%BF%D0%BE%D0%BB_%D0%98%D1%81%D0%B0%D0%B0%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%D0%B0..jpg"
+        },
+        {
+          "path": "remote/petersburg/spb_st_isaac-3-341011e249406464.jpg",
+          "title": "Исаакиевский собор Фрагмент2.jpg",
+          "author": "Aav",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%98%D1%81%D0%B0%D0%B0%D0%BA%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%A4%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%822.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spb_spilled_blood",
+      "category": "Архитектура",
+      "lat": 59.94,
+      "lon": 30.328611111111,
+      "qid": "Q215208",
+      "source": "https://www.cathedral.ru/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81_%D0%BD%D0%B0_%D0%9A%D1%80%D0%BE%D0%B2%D0%B8",
+      "name": "Спас на Крови",
+      "address": "Набережная канала Грибоедова, 2Б",
+      "intro": "Храм с яркими куполами на набережной канала Грибоедова.",
+      "history": "Храм Воскресения Христова, известный как Спас на Крови, построен на месте смертельного ранения императора Александра II в 1881 году. Он выделяется в центре города цветными куполами и декоративными фасадами.\n\nЗдание удобно рассматривать с разных сторон канала и со стороны Михайловского сада. Внутри находится богатое мозаичное убранство; часы посещения следует уточнять заранее.",
+      "facts": [
+        "Полное название храма связано с Воскресением Христовым.",
+        "Храм стоит у канала Грибоедова.",
+        "Интерьер и фасады украшены мозаиками."
+      ],
+      "photo": "remote/petersburg/spb_spilled_blood-1-3f28ff7b317c246b.jpg",
+      "photo_title": "Собор Воскресения Христова 1.jpg",
+      "photo_author": "AndreyWi",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0_1.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_spilled_blood-2-7b515d897a1a120a.jpg",
+          "title": "Saint Petersburg Church of the Savior on Blood 2015-08 1439204208.jpg",
+          "author": "Desiderius Severus",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Petersburg_Church_of_the_Savior_on_Blood_2015-08_1439204208.jpg"
+        },
+        {
+          "path": "remote/petersburg/spb_spilled_blood-3-eb3b61f0c7badb4a.jpg",
+          "title": "Saint Petersburg Church of the Savior on Blood 2015-12 1449917775.jpg",
+          "author": "Poudou99",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Petersburg_Church_of_the_Savior_on_Blood_2015-12_1449917775.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spb_kazan_cathedral",
+      "category": "Архитектура",
+      "lat": 59.934227777778,
+      "lon": 30.324594444444,
+      "qid": "Q404571",
+      "source": "https://kazansky-spb.ru/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)",
+      "name": "Казанский собор",
+      "address": "Казанская площадь, Невский проспект",
+      "intro": "Собор с полукруглой колоннадой на Невском проспекте.",
+      "history": "Казанский собор построен в начале XIX века по проекту Андрея Воронихина. Его полукруглая колоннада образует площадь перед Невским проспектом.\n\nВо время прогулки можно рассмотреть колоннаду и сквер перед храмом, а затем пройти вдоль канала Грибоедова. Собор действующий, поэтому при посещении следует учитывать правила и богослужения.",
+      "facts": [
+        "Проект собора создал архитектор Андрей Воронихин.",
+        "Колоннада обращена к Невскому проспекту.",
+        "Перед собором находится Казанская площадь."
+      ],
+      "photo": "remote/petersburg/spb_kazan_cathedral-1-28558e5dce348893.jpg",
+      "photo_title": "Spb 06-2012 Nevsky various 02.jpg",
+      "photo_author": "A.Savin",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Spb_06-2012_Nevsky_various_02.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_kazan_cathedral-2-2ca6a2b2da6e5e73.jpg",
+          "title": "DSC09730 2025 Санкт-Петербург, Казанская площадь, 2, Казанский собор, вид сзади.jpg",
+          "author": "Reshinna",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:DSC09730_2025_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3,_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C,_2,_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80,_%D0%B2%D0%B8%D0%B4_%D1%81%D0%B7%D0%B0%D0%B4%D0%B8.jpg"
+        },
+        {
+          "path": "remote/petersburg/spb_kazan_cathedral-3-52d4d59a1706d487.jpg",
+          "title": "Казанский собор Невский Санкт-Петербург 2026 01.jpg",
+          "author": "Никонико962",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3_2026_01.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spb_summer_garden",
+      "category": "Прогулки",
+      "lat": 59.944722222222,
+      "lon": 30.335555555556,
+      "qid": "Q1229234",
+      "source": "https://rusmuseum.ru/museums/summer-garden/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4",
+      "name": "Летний сад",
+      "address": "Между Невой, Фонтанкой и Лебяжьей канавкой",
+      "intro": "Исторический сад с аллеями, скульптурами и фонтанами.",
+      "history": "Летний сад заложен в начале XVIII века по замыслу Петра I. Его регулярная планировка, прямые аллеи и скульптуры рассказывают о традициях садового искусства петровского времени.\n\nЗдесь приятно пройти по тенистым дорожкам и посмотреть на фонтаны. Сад находится в ведении Русского музея; режим работы и сезонные ограничения лучше проверить перед прогулкой.",
+      "facts": [
+        "История сада начинается в петровскую эпоху.",
+        "В саду есть мраморная скульптура и фонтаны.",
+        "С северной стороны сад выходит к Неве."
+      ],
+      "photo": "remote/petersburg/spb_summer_garden-1-b4a8a0dca335142c.jpg",
+      "photo_title": "View of Summer Garden from Fontanka River.jpg",
+      "photo_author": "Yair Haklai",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:View_of_Summer_Garden_from_Fontanka_River.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_summer_garden-2-17fe8ba58313ad3c.jpg",
+          "title": "5691.1. St. Petersburg. Summer Garden.jpg",
+          "author": "GAlexandrova",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:5691.1._St._Petersburg._Summer_Garden.jpg"
+        },
+        {
+          "path": "remote/petersburg/spb_summer_garden-3-5ec829b01552d65f.jpg",
+          "title": "Summer Garden 6. Saint Petersburg.jpg",
+          "author": "Osazemen",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Summer_Garden_6._Saint_Petersburg.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spb_fortress",
+      "category": "История",
+      "lat": 59.95,
+      "lon": 30.316666666667,
+      "qid": "Q38646",
+      "source": "https://spbmuseum.ru/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C",
+      "name": "Петропавловская крепость",
+      "address": "Заячий остров, Петропавловская крепость",
+      "intro": "Крепость на Заячьем острове, с которой связана история основания города.",
+      "history": "Петропавловская крепость основана в 1703 году на Заячьем острове. С этого укрепления обычно начинают рассказ об истории Санкт-Петербурга.\n\nНа территории находятся Петропавловский собор, музейные пространства и крепостные стены. С набережных острова открываются виды на Неву и исторический центр; доступ в отдельные музеи уточняйте заранее.",
+      "facts": [
+        "Крепость заложена в 1703 году.",
+        "Петропавловский собор узнаваем по высокому шпилю.",
+        "Крепость расположена на Заячьем острове."
+      ],
+      "photo": "remote/petersburg/spb_fortress-1-327aa81830f7c919.jpg",
+      "photo_title": "RUS-2016-Aerial-SPB-Peter and Paul Fortress 02.jpg",
+      "photo_author": "Andrew Shiva / Wikipedia",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_fortress-2-4ebf955c1162c749.jpg",
+          "title": "Petrogradsky District, St Petersburg, Russia - panoramio (269).jpg",
+          "author": "Дмитрий Cкляренко",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Petrogradsky_District,_St_Petersburg,_Russia_-_panoramio_(269).jpg"
+        },
+        {
+          "path": "remote/petersburg/spb_fortress-3-7b99e43409f6d916.jpg",
+          "title": "2003年 圣彼得堡 彼得保罗要塞 - panoramio.jpg",
+          "author": "wanghongliu",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:2003%E5%B9%B4_%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1_%E5%BD%BC%E5%BE%97%E4%BF%9D%E7%BD%97%E8%A6%81%E5%A1%9E_-_panoramio.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spb_bronze_horseman",
+      "category": "История",
+      "lat": 59.93655556,
+      "lon": 30.30216944,
+      "qid": "Q672444",
+      "source": "https://whc.unesco.org/en/list/540/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B2%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA",
+      "name": "Медный всадник",
+      "address": "Сенатская площадь, у Невы",
+      "intro": "Памятник Петру I на большом каменном постаменте.",
+      "history": "Конный памятник Петру I на Сенатской площади создан скульптором Этьеном Морисом Фальконе. Он был открыт в XVIII веке и стал одним из символов Петербурга.\n\nРассмотрите всадника с разных сторон и необычную форму гранитного основания. Рядом расположены Исаакиевский собор и набережная Невы.",
+      "facts": [
+        "Памятник выполнен из бронзы, несмотря на привычное название.",
+        "Постамент известен как Гром-камень.",
+        "Название «Медный всадник» связано с одноимённой поэмой Пушкина."
+      ],
+      "photo": "remote/petersburg/spb_bronze_horseman-1-97f8018187d7092b.jpg",
+      "photo_title": "The Bronze Horseman (St. Petersburg, Russia).jpg",
+      "photo_author": "Godot13",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:The_Bronze_Horseman_(St._Petersburg,_Russia).jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_bronze_horseman-2-78ecdb92fbcd04be.jpg",
+          "title": "Bronzový jezdec.jpg",
+          "author": "Dezidor",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Bronzov%C3%BD_jezdec.jpg"
+        },
+        {
+          "path": "remote/petersburg/spb_bronze_horseman-3-d824c2e6c46ec760.jpg",
+          "title": "0752Aa. St. Petersburg. Monument \"Copper Horseman\".jpg",
+          "author": "Александровы АГ",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:0752Aa._St._Petersburg._Monument_%22Copper_Horseman%22.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spb_russian_museum",
+      "category": "Культура",
+      "lat": 59.938592,
+      "lon": 30.332221,
+      "qid": "Q211043",
+      "source": "https://rusmuseum.ru/museums/mikhailovsky-palace/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9",
+      "name": "Русский музей",
+      "address": "Инженерная улица, 4, Михайловский дворец",
+      "intro": "Музей русского искусства в историческом Михайловском дворце.",
+      "history": "Главная экспозиционная площадка Русского музея находится в Михайловском дворце. Ансамбль дворца и площади перед ним создан по проекту архитектора Карла Росси.\n\nРядом расположен Михайловский сад, а несколько других дворцов также входят в музейный комплекс. Перед посещением проверьте, в каком здании проходит интересующая выставка.",
+      "facts": [
+        "Михайловский дворец создан по проекту Карла Росси.",
+        "В собрании музея представлены произведения русского искусства.",
+        "У Русского музея несколько зданий и садов в центре города."
+      ],
+      "photo": "remote/petersburg/spb_russian_museum-1-a5ead085adbf6710.jpg",
+      "photo_title": "Spb 06-2012 MichaelPalace.jpg",
+      "photo_author": "A.Savin",
+      "photo_license": "CC BY-SA 3.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:Spb_06-2012_MichaelPalace.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_russian_museum-2-7e4e99b94d6196da.jpg",
+          "title": "2018 SPb Mikhailovsky Palace 02.jpg",
+          "author": "Andrey Korzun",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_SPb_Mikhailovsky_Palace_02.jpg"
+        },
+        {
+          "path": "remote/petersburg/spb_russian_museum-3-b97df1f2e07ba442.jpg",
+          "title": "2018 SPb Mikhailovsky Palace 08.jpg",
+          "author": "Andrey Korzun",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:2018_SPb_Mikhailovsky_Palace_08.jpg"
+        }
+      ]
+    },
+    {
+      "id": "spb_vasilevsky_spit",
+      "category": "Прогулки",
+      "lat": 59.943556,
+      "lon": 30.30452,
+      "qid": "Q2367636",
+      "source": "https://whc.unesco.org/en/list/540/",
+      "facts_source": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+      "name": "Стрелка Васильевского острова",
+      "address": "Восточная оконечность Васильевского острова",
+      "intro": "Смотровая площадка у Невы с Ростральными колоннами.",
+      "history": "Стрелка - восточная оконечность Васильевского острова, где Нева разделяется на Большую и Малую Неву. Здесь сложился узнаваемый ансамбль с бывшим зданием Биржи и Ростральными колоннами.\n\nС набережной открывается вид на Дворцовую набережную и Петропавловскую крепость. Пространство удобно включить в прогулку через Дворцовый или Биржевой мост.",
+      "facts": [
+        "На Стрелке стоят две Ростральные колонны.",
+        "Здание бывшей Биржи обращено к Неве.",
+        "Отсюда видна Петропавловская крепость на противоположном берегу."
+      ],
+      "photo": "remote/petersburg/spb_vasilevsky_spit-1-ed027eb577d7079a.jpg",
+      "photo_title": "00 5073 Sankt Petersburg, Wassiljewski-Insel - Marinemuseum.jpg",
+      "photo_author": "W. Bulach",
+      "photo_license": "CC BY-SA 4.0",
+      "photo_url": "https://commons.wikimedia.org/wiki/File:00_5073_Sankt_Petersburg,_Wassiljewski-Insel_-_Marinemuseum.jpg",
+      "photo_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "gallery": [
+        {
+          "path": "remote/petersburg/spb_vasilevsky_spit-2-5c177e0d5121cfcb.jpg",
+          "title": "A view of the Neva IMG 4000.JPG",
+          "author": "Deror_avi",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Neva_IMG_4000.JPG"
+        },
+        {
+          "path": "remote/petersburg/spb_vasilevsky_spit-3-76b9880b625bb4ae.jpg",
+          "title": "Magic Sankt Petersburg - White Nights (Weisse Nächte) Midnight Light 9.jpg",
+          "author": "Michael Hoffmann (Hamlet53)",
+          "license": "CC BY-SA 3.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Magic_Sankt_Petersburg_-_White_Nights_(Weisse_N%C3%A4chte)_Midnight_Light_9.jpg"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "spb_palace_square": {
+      "name": "Palace Square",
+      "address": "In front of the Winter Palace, central St Petersburg",
+      "intro": "The city’s main square, with the Alexander Column and Winter Palace.",
+      "history": "Palace Square is one of the principal architectural ensembles of St Petersburg. It is framed by the Winter Palace and the curving General Staff Building with its triumphal arch.\n\nThe Alexander Column rises in the middle of the square. From here you can continue towards the Neva, the Admiralty or Nevsky Prospect; access may change during events.",
+      "facts": [
+        "The Alexander Column stands in the centre of the square.",
+        "The General Staff arch leads towards Bolshaya Morskaya Street.",
+        "The Winter Palace faces the square on its northern side."
+      ]
+    },
+    "spb_hermitage": {
+      "name": "Hermitage Museum",
+      "address": "Palace Square, Winter Palace",
+      "intro": "A museum complex whose main building overlooks the Neva.",
+      "history": "The Hermitage grew from Catherine II’s art collection into one of Russia’s best-known museums. Its complex includes the Winter Palace, a former imperial residence.\n\nView the palace facades from Palace Square and the Neva. For a museum visit, check the entrance, opening hours and tickets in advance: the collection occupies several buildings.",
+      "facts": [
+        "The Hermitage collection dates back to the eighteenth century.",
+        "The Winter Palace forms part of the museum complex.",
+        "The museum occupies several historic buildings."
+      ]
+    },
+    "spb_st_isaac": {
+      "name": "St Isaac’s Cathedral",
+      "address": "4 St Isaac’s Square",
+      "intro": "A monumental cathedral with a golden dome and colonnades.",
+      "history": "The present St Isaac’s Cathedral was built in the nineteenth century to a design by Auguste de Montferrand. Its large dome is visible from many parts of the historic centre.\n\nLook at the granite columns and sculpture around the exterior. The building houses a museum and its colonnade offers a viewpoint; check access arrangements separately.",
+      "facts": [
+        "The cathedral was designed by architect Auguste de Montferrand.",
+        "Columned porticoes surround the building.",
+        "The colonnade offers views over the city."
+      ]
+    },
+    "spb_spilled_blood": {
+      "name": "Church of the Saviour on Blood",
+      "address": "2B Griboyedov Canal Embankment",
+      "intro": "A church with colourful domes beside the Griboyedov Canal.",
+      "history": "The Church of the Resurrection, known as the Saviour on Blood, was built where Emperor Alexander II was fatally wounded in 1881. Its colourful domes and detailed facades stand out in the city centre.\n\nView the building from both sides of the canal and from near Mikhailovsky Garden. The interior has extensive mosaic decoration; check opening hours before visiting.",
+      "facts": [
+        "The church’s formal name refers to the Resurrection of Christ.",
+        "It stands beside the Griboyedov Canal.",
+        "Mosaics decorate the interior and exterior."
+      ]
+    },
+    "spb_kazan_cathedral": {
+      "name": "Kazan Cathedral",
+      "address": "Kazan Square, Nevsky Prospect",
+      "intro": "A cathedral with a semicircular colonnade on Nevsky Prospect.",
+      "history": "Kazan Cathedral was built in the early nineteenth century to a design by Andrey Voronikhin. Its semicircular colonnade frames a square beside Nevsky Prospect.\n\nLook at the colonnade and the garden in front, then continue along the Griboyedov Canal. The cathedral is an active place of worship, so follow its visitor rules and service arrangements.",
+      "facts": [
+        "The cathedral was designed by architect Andrey Voronikhin.",
+        "Its colonnade faces Nevsky Prospect.",
+        "Kazan Square lies in front of the cathedral."
+      ]
+    },
+    "spb_summer_garden": {
+      "name": "Summer Garden",
+      "address": "Between the Neva, Fontanka and Swan Canal",
+      "intro": "A historic garden of avenues, sculpture and fountains.",
+      "history": "The Summer Garden was laid out in the early eighteenth century under Peter I. Its formal plan, straight avenues and sculpture reflect garden traditions of the Petrine era.\n\nWalk the shaded paths and look for the fountains. The garden is administered by the Russian Museum; check opening hours and seasonal restrictions before visiting.",
+      "facts": [
+        "The garden dates from the era of Peter I.",
+        "It contains marble sculpture and fountains.",
+        "The northern edge of the garden faces the Neva."
+      ]
+    },
+    "spb_fortress": {
+      "name": "Peter and Paul Fortress",
+      "address": "Hare Island, Peter and Paul Fortress",
+      "intro": "A fortress on Hare Island connected with the founding of St Petersburg.",
+      "history": "The Peter and Paul Fortress was founded on Hare Island in 1703. The story of St Petersburg is commonly traced back to this fortification.\n\nInside are Peter and Paul Cathedral, museum spaces and fortress walls. The island’s embankments offer views across the Neva; check access to individual museums in advance.",
+      "facts": [
+        "The fortress was founded in 1703.",
+        "Peter and Paul Cathedral is recognisable by its tall spire.",
+        "The fortress stands on Hare Island."
+      ]
+    },
+    "spb_bronze_horseman": {
+      "name": "Bronze Horseman",
+      "address": "Senate Square, near the Neva",
+      "intro": "An equestrian monument to Peter I on a massive stone pedestal.",
+      "history": "The equestrian monument to Peter I on Senate Square was created by sculptor Étienne Maurice Falconet. Unveiled in the eighteenth century, it became one of the symbols of St Petersburg.\n\nWalk around the monument to see the rider and the unusual granite base from different sides. St Isaac’s Cathedral and the Neva embankment are nearby.",
+      "facts": [
+        "The statue is cast in bronze.",
+        "Its pedestal is known as the Thunder Stone.",
+        "The name Bronze Horseman is associated with Pushkin’s poem."
+      ]
+    },
+    "spb_russian_museum": {
+      "name": "Russian Museum",
+      "address": "4 Inzhenernaya Street, Mikhailovsky Palace",
+      "intro": "A museum of Russian art in the historic Mikhailovsky Palace.",
+      "history": "The Russian Museum’s main exhibition venue is in Mikhailovsky Palace. The palace ensemble and the square in front were designed by architect Carlo Rossi.\n\nMikhailovsky Garden is nearby, and several other palaces also belong to the museum complex. Check which building hosts the exhibition you want before visiting.",
+      "facts": [
+        "Mikhailovsky Palace was designed by Carlo Rossi.",
+        "The collection features works of Russian art.",
+        "The Russian Museum includes several buildings and gardens in the city centre."
+      ]
+    },
+    "spb_vasilevsky_spit": {
+      "name": "Spit of Vasilyevsky Island",
+      "address": "Eastern tip of Vasilyevsky Island",
+      "intro": "A Neva-side viewpoint with the Rostral Columns.",
+      "history": "The Spit is the eastern tip of Vasilyevsky Island, where the Neva divides into the Great and Little Neva. Its architectural ensemble includes the former Stock Exchange and the Rostral Columns.\n\nThe embankment overlooks Palace Embankment and the Peter and Paul Fortress. You can include it in a walk across Palace Bridge or Birzhevoy Bridge.",
+      "facts": [
+        "There are two Rostral Columns on the Spit.",
+        "The former Stock Exchange faces the Neva.",
+        "The Peter and Paul Fortress is visible across the water."
+      ]
+    }
+  }
+}

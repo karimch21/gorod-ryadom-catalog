@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "cities": [
+    {
+      "id": "kazan",
+      "name_ru": "Казань",
+      "name_en": "Kazan",
+      "catalog": "cities/kazan.json"
+    },
+    {
+      "id": "moscow",
+      "name_ru": "Москва",
+      "name_en": "Moscow",
+      "catalog": "cities/moscow.json"
+    },
+    {
+      "id": "petersburg",
+      "name_ru": "Санкт-Петербург",
+      "name_en": "St Petersburg",
+      "catalog": "cities/petersburg.json"
+    }
+  ]
+}
